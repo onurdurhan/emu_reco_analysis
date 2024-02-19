@@ -1,0 +1,1824 @@
+000 (5730812.000.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+000 (5730812.001.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+000 (5730812.002.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+000 (5730812.003.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+000 (5730812.004.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+000 (5730812.005.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+000 (5730812.006.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+000 (5730812.007.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+000 (5730812.008.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+000 (5730812.009.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+000 (5730812.010.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+000 (5730812.011.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+000 (5730812.012.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+000 (5730812.013.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+000 (5730812.014.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+000 (5730812.015.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+000 (5730812.016.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+000 (5730812.017.000) 02/16 10:13:33 Job submitted from host: <137.138.55.115:9618?addrs=137.138.55.115-9618+[2001-1458-d00-17--12a]-9618&alias=bigbird23.cern.ch&noUDP&sock=schedd_590833_df83>
+...
+040 (5730812.003.000) 02/16 10:20:12 Started transferring input files
+	Transferring to host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=slot1_42_2569956_3db3_26967>
+...
+040 (5730812.003.000) 02/16 10:20:12 Finished transferring input files
+...
+001 (5730812.003.000) 02/16 10:20:12 Job executing on host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=startd_2569918_91e2>
+...
+040 (5730812.000.000) 02/16 10:20:13 Started transferring input files
+	Transferring to host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=slot1_8_2569956_3db3_26966>
+...
+040 (5730812.000.000) 02/16 10:20:13 Finished transferring input files
+...
+001 (5730812.000.000) 02/16 10:20:13 Job executing on host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=startd_2569918_91e2>
+...
+040 (5730812.004.000) 02/16 10:20:13 Started transferring input files
+	Transferring to host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=slot1_29_11210_3581_27078>
+...
+040 (5730812.004.000) 02/16 10:20:13 Finished transferring input files
+...
+001 (5730812.004.000) 02/16 10:20:13 Job executing on host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=startd_11168_e5c6>
+...
+040 (5730812.001.000) 02/16 10:20:13 Started transferring input files
+	Transferring to host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=slot1_5_1720249_ca9a_28009>
+...
+040 (5730812.001.000) 02/16 10:20:13 Finished transferring input files
+...
+001 (5730812.001.000) 02/16 10:20:13 Job executing on host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=startd_1720211_3e53>
+...
+040 (5730812.002.000) 02/16 10:20:13 Started transferring input files
+	Transferring to host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=slot1_12_11210_3581_27077>
+...
+001 (5730812.002.000) 02/16 10:20:13 Job executing on host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=startd_11168_e5c6>
+...
+040 (5730812.002.000) 02/16 10:20:13 Finished transferring input files
+...
+006 (5730812.000.000) 02/16 10:20:21 Image size of job updated: 278520
+	269  -  MemoryUsage of job (MB)
+	274812  -  ResidentSetSize of job (KB)
+...
+006 (5730812.004.000) 02/16 10:20:21 Image size of job updated: 343468
+	336  -  MemoryUsage of job (MB)
+	343468  -  ResidentSetSize of job (KB)
+...
+006 (5730812.003.000) 02/16 10:20:21 Image size of job updated: 293188
+	287  -  MemoryUsage of job (MB)
+	293188  -  ResidentSetSize of job (KB)
+...
+006 (5730812.001.000) 02/16 10:20:22 Image size of job updated: 575684
+	563  -  MemoryUsage of job (MB)
+	575684  -  ResidentSetSize of job (KB)
+...
+006 (5730812.002.000) 02/16 10:20:22 Image size of job updated: 369880
+	361  -  MemoryUsage of job (MB)
+	369372  -  ResidentSetSize of job (KB)
+...
+006 (5730812.001.000) 02/16 10:22:25 Image size of job updated: 1446480
+	921  -  MemoryUsage of job (MB)
+	942244  -  ResidentSetSize of job (KB)
+...
+040 (5730812.001.000) 02/16 10:22:25 Started transferring output files
+...
+040 (5730812.001.000) 02/16 10:22:25 Finished transferring output files
+...
+004 (5730812.001.000) 02/16 10:22:25 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:43, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	27905  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.003.000) 02/16 10:22:30 Image size of job updated: 1007092
+	516  -  MemoryUsage of job (MB)
+	528312  -  ResidentSetSize of job (KB)
+...
+040 (5730812.003.000) 02/16 10:22:30 Started transferring output files
+...
+040 (5730812.003.000) 02/16 10:22:30 Finished transferring output files
+...
+004 (5730812.003.000) 02/16 10:22:30 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:37, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	27899  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.000.000) 02/16 10:22:34 Image size of job updated: 995564
+	499  -  MemoryUsage of job (MB)
+	510608  -  ResidentSetSize of job (KB)
+...
+040 (5730812.000.000) 02/16 10:22:34 Started transferring output files
+...
+040 (5730812.000.000) 02/16 10:22:34 Finished transferring output files
+...
+004 (5730812.000.000) 02/16 10:22:34 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:44, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	27895  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.004.000) 02/16 10:22:36 Image size of job updated: 946212
+	500  -  MemoryUsage of job (MB)
+	511652  -  ResidentSetSize of job (KB)
+...
+040 (5730812.004.000) 02/16 10:22:36 Started transferring output files
+...
+040 (5730812.004.000) 02/16 10:22:36 Finished transferring output files
+...
+004 (5730812.004.000) 02/16 10:22:36 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:01:00, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	27896  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.002.000) 02/16 10:22:42 Image size of job updated: 1018184
+	516  -  MemoryUsage of job (MB)
+	527388  -  ResidentSetSize of job (KB)
+...
+040 (5730812.002.000) 02/16 10:22:42 Started transferring output files
+...
+040 (5730812.002.000) 02/16 10:22:42 Finished transferring output files
+...
+004 (5730812.002.000) 02/16 10:22:42 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:01:08, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	27891  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.000.000) 02/16 10:25:04 Started transferring input files
+	Transferring to host: <128.142.248.94:9618?addrs=128.142.248.94-9618+[2001-1458-301-73--100-14e]-9618&alias=b9g23p2790.cern.ch&noUDP&sock=slot1_6_9567_911e_37774>
+...
+001 (5730812.000.000) 02/16 10:25:04 Job executing on host: <128.142.248.94:9618?addrs=128.142.248.94-9618+[2001-1458-301-73--100-14e]-9618&alias=b9g23p2790.cern.ch&noUDP&sock=startd_8479_779b>
+...
+040 (5730812.000.000) 02/16 10:25:04 Finished transferring input files
+...
+040 (5730812.004.000) 02/16 10:25:05 Started transferring input files
+	Transferring to host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=slot1_5_1720249_ca9a_28011>
+...
+040 (5730812.004.000) 02/16 10:25:05 Finished transferring input files
+...
+001 (5730812.004.000) 02/16 10:25:05 Job executing on host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=startd_1720211_3e53>
+...
+040 (5730812.001.000) 02/16 10:25:05 Started transferring input files
+	Transferring to host: <128.142.248.197:9618?addrs=128.142.248.197-9618+[2001-1458-301-73--100-c4]-9618&alias=b9g23p2961.cern.ch&noUDP&sock=slot1_14_982955_783d_38765>
+...
+040 (5730812.001.000) 02/16 10:25:05 Finished transferring input files
+...
+001 (5730812.001.000) 02/16 10:25:05 Job executing on host: <128.142.248.197:9618?addrs=128.142.248.197-9618+[2001-1458-301-73--100-c4]-9618&alias=b9g23p2961.cern.ch&noUDP&sock=startd_118759_5fe0>
+...
+040 (5730812.002.000) 02/16 10:25:05 Started transferring input files
+	Transferring to host: <128.142.60.169:9618?addrs=128.142.60.169-9618+[2001-1458-301-22--100-a8]-9618&alias=b9s05p0166.cern.ch&noUDP&sock=slot1_26_3431812_c29b_28869>
+...
+040 (5730812.002.000) 02/16 10:25:05 Finished transferring input files
+...
+001 (5730812.002.000) 02/16 10:25:05 Job executing on host: <128.142.60.169:9618?addrs=128.142.60.169-9618+[2001-1458-301-22--100-a8]-9618&alias=b9s05p0166.cern.ch&noUDP&sock=startd_3431771_0ac1>
+...
+040 (5730812.006.000) 02/16 10:25:05 Started transferring input files
+	Transferring to host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=slot1_12_11210_3581_27080>
+...
+040 (5730812.006.000) 02/16 10:25:05 Finished transferring input files
+...
+001 (5730812.006.000) 02/16 10:25:05 Job executing on host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=startd_11168_e5c6>
+...
+040 (5730812.003.000) 02/16 10:25:05 Started transferring input files
+	Transferring to host: <128.142.60.138:9618?addrs=128.142.60.138-9618+[2001-1458-301-22--100-89]-9618&alias=b9s05p0030.cern.ch&noUDP&sock=slot1_9_2002652_4096_28342>
+...
+040 (5730812.003.000) 02/16 10:25:05 Finished transferring input files
+...
+001 (5730812.003.000) 02/16 10:25:05 Job executing on host: <128.142.60.138:9618?addrs=128.142.60.138-9618+[2001-1458-301-22--100-89]-9618&alias=b9s05p0030.cern.ch&noUDP&sock=startd_2002613_86b9>
+...
+040 (5730812.007.000) 02/16 10:25:06 Started transferring input files
+	Transferring to host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=slot1_7_2569956_3db3_26969>
+...
+040 (5730812.007.000) 02/16 10:25:06 Finished transferring input files
+...
+001 (5730812.007.000) 02/16 10:25:06 Job executing on host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=startd_2569918_91e2>
+...
+040 (5730812.008.000) 02/16 10:25:06 Started transferring input files
+	Transferring to host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=slot1_53_1720249_ca9a_28012>
+...
+040 (5730812.008.000) 02/16 10:25:06 Finished transferring input files
+...
+001 (5730812.008.000) 02/16 10:25:06 Job executing on host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=startd_1720211_3e53>
+...
+040 (5730812.009.000) 02/16 10:25:06 Started transferring input files
+	Transferring to host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=slot1_29_11210_3581_27081>
+...
+040 (5730812.009.000) 02/16 10:25:06 Finished transferring input files
+...
+001 (5730812.009.000) 02/16 10:25:06 Job executing on host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=startd_11168_e5c6>
+...
+040 (5730812.005.000) 02/16 10:25:06 Started transferring input files
+	Transferring to host: <128.142.60.93:9618?addrs=128.142.60.93-9618+[2001-1458-301-22--100-5c]-9618&alias=b9s05p0364.cern.ch&noUDP&sock=slot1_14_1378626_7bb6_29520>
+...
+040 (5730812.005.000) 02/16 10:25:06 Finished transferring input files
+...
+001 (5730812.005.000) 02/16 10:25:06 Job executing on host: <128.142.60.93:9618?addrs=128.142.60.93-9618+[2001-1458-301-22--100-5c]-9618&alias=b9s05p0364.cern.ch&noUDP&sock=startd_1378587_9832>
+...
+040 (5730812.010.000) 02/16 10:25:07 Started transferring input files
+	Transferring to host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=slot1_8_2569956_3db3_26970>
+...
+040 (5730812.010.000) 02/16 10:25:07 Finished transferring input files
+...
+001 (5730812.010.000) 02/16 10:25:07 Job executing on host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=startd_2569918_91e2>
+...
+040 (5730812.011.000) 02/16 10:25:07 Started transferring input files
+	Transferring to host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=slot1_35_2569956_3db3_26971>
+...
+040 (5730812.011.000) 02/16 10:25:07 Finished transferring input files
+...
+001 (5730812.011.000) 02/16 10:25:07 Job executing on host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=startd_2569918_91e2>
+...
+006 (5730812.007.000) 02/16 10:25:14 Image size of job updated: 242032
+	222  -  MemoryUsage of job (MB)
+	227264  -  ResidentSetSize of job (KB)
+...
+006 (5730812.008.000) 02/16 10:25:14 Image size of job updated: 243076
+	238  -  MemoryUsage of job (MB)
+	243072  -  ResidentSetSize of job (KB)
+...
+006 (5730812.009.000) 02/16 10:25:14 Image size of job updated: 241324
+	215  -  MemoryUsage of job (MB)
+	219216  -  ResidentSetSize of job (KB)
+...
+006 (5730812.005.000) 02/16 10:25:14 Image size of job updated: 576028
+	563  -  MemoryUsage of job (MB)
+	575996  -  ResidentSetSize of job (KB)
+...
+006 (5730812.006.000) 02/16 10:25:14 Image size of job updated: 215596
+	211  -  MemoryUsage of job (MB)
+	215596  -  ResidentSetSize of job (KB)
+...
+006 (5730812.010.000) 02/16 10:25:15 Image size of job updated: 226384
+	207  -  MemoryUsage of job (MB)
+	211588  -  ResidentSetSize of job (KB)
+...
+006 (5730812.011.000) 02/16 10:25:15 Image size of job updated: 225636
+	219  -  MemoryUsage of job (MB)
+	223616  -  ResidentSetSize of job (KB)
+...
+006 (5730812.011.000) 02/16 10:25:45 Image size of job updated: 460532
+	219  -  MemoryUsage of job (MB)
+	223616  -  ResidentSetSize of job (KB)
+...
+040 (5730812.011.000) 02/16 10:25:45 Started transferring output files
+...
+040 (5730812.011.000) 02/16 10:25:45 Finished transferring output files
+...
+004 (5730812.011.000) 02/16 10:25:45 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:31, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	27876  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.010.000) 02/16 10:25:47 Image size of job updated: 467700
+	207  -  MemoryUsage of job (MB)
+	211588  -  ResidentSetSize of job (KB)
+...
+040 (5730812.010.000) 02/16 10:25:47 Started transferring output files
+...
+040 (5730812.010.000) 02/16 10:25:47 Finished transferring output files
+...
+004 (5730812.010.000) 02/16 10:25:47 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:33, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	27888  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.008.000) 02/16 10:25:48 Image size of job updated: 520844
+	238  -  MemoryUsage of job (MB)
+	243072  -  ResidentSetSize of job (KB)
+...
+040 (5730812.008.000) 02/16 10:25:48 Started transferring output files
+...
+040 (5730812.008.000) 02/16 10:25:48 Finished transferring output files
+...
+004 (5730812.008.000) 02/16 10:25:48 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:34, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	27886  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.007.000) 02/16 10:25:48 Image size of job updated: 500336
+	222  -  MemoryUsage of job (MB)
+	227264  -  ResidentSetSize of job (KB)
+...
+040 (5730812.007.000) 02/16 10:25:48 Started transferring output files
+...
+040 (5730812.007.000) 02/16 10:25:48 Finished transferring output files
+...
+004 (5730812.007.000) 02/16 10:25:48 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:35, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	27894  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.004.000) 02/16 10:25:48 Started transferring output files
+...
+040 (5730812.004.000) 02/16 10:25:48 Finished transferring output files
+...
+004 (5730812.004.000) 02/16 10:25:48 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:36, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28734  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.009.000) 02/16 10:26:08 Image size of job updated: 482364
+	215  -  MemoryUsage of job (MB)
+	219216  -  ResidentSetSize of job (KB)
+...
+040 (5730812.009.000) 02/16 10:26:08 Started transferring output files
+...
+040 (5730812.009.000) 02/16 10:26:08 Finished transferring output files
+...
+004 (5730812.009.000) 02/16 10:26:08 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:55, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	27989  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.006.000) 02/16 10:26:12 Image size of job updated: 486336
+	211  -  MemoryUsage of job (MB)
+	215596  -  ResidentSetSize of job (KB)
+...
+040 (5730812.006.000) 02/16 10:26:12 Started transferring output files
+...
+040 (5730812.006.000) 02/16 10:26:12 Finished transferring output files
+...
+004 (5730812.006.000) 02/16 10:26:12 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:01:00, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	27894  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.002.000) 02/16 10:26:32 Image size of job updated: 1452388
+	944  -  MemoryUsage of job (MB)
+	965752  -  ResidentSetSize of job (KB)
+...
+040 (5730812.002.000) 02/16 10:26:32 Started transferring output files
+...
+040 (5730812.002.000) 02/16 10:26:32 Finished transferring output files
+...
+004 (5730812.002.000) 02/16 10:26:32 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:42, Sys 0 00:00:06  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28725  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.001.000) 02/16 10:26:52 Started transferring output files
+...
+040 (5730812.001.000) 02/16 10:26:52 Finished transferring output files
+...
+004 (5730812.001.000) 02/16 10:26:52 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:01:12, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28743  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.002.000) 02/16 10:26:52 Started transferring input files
+	Transferring to host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=slot1_12_11210_3581_27085>
+...
+040 (5730812.002.000) 02/16 10:26:52 Finished transferring input files
+...
+001 (5730812.002.000) 02/16 10:26:52 Job executing on host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=startd_11168_e5c6>
+...
+040 (5730812.004.000) 02/16 10:26:54 Started transferring input files
+	Transferring to host: <188.184.162.53:9618?addrs=188.184.162.53-9618+[2001-1458-301-4a--100-2f]-9618&alias=b9s11p7904.cern.ch&noUDP&sock=slot1_11_170752_fb19_32990>
+...
+001 (5730812.004.000) 02/16 10:26:54 Job executing on host: <188.184.162.53:9618?addrs=188.184.162.53-9618+[2001-1458-301-4a--100-2f]-9618&alias=b9s11p7904.cern.ch&noUDP&sock=startd_170712_cfae>
+...
+040 (5730812.004.000) 02/16 10:26:54 Finished transferring input files
+...
+040 (5730812.006.000) 02/16 10:26:54 Started transferring input files
+	Transferring to host: <188.184.163.102:9618?addrs=188.184.163.102-9618+[2001-1458-301-4d--100-60]-9618&alias=b9s12p3610.cern.ch&noUDP&sock=slot1_18_547310_2829_32923>
+...
+040 (5730812.007.000) 02/16 10:26:54 Started transferring input files
+	Transferring to host: <188.184.163.64:9618?addrs=188.184.163.64-9618+[2001-1458-301-4d--100-3a]-9618&alias=b9s12p9784.cern.ch&noUDP&sock=slot1_19_4067066_abc3_27174>
+...
+040 (5730812.006.000) 02/16 10:26:54 Finished transferring input files
+...
+001 (5730812.007.000) 02/16 10:26:54 Job executing on host: <188.184.163.64:9618?addrs=188.184.163.64-9618+[2001-1458-301-4d--100-3a]-9618&alias=b9s12p9784.cern.ch&noUDP&sock=startd_636197_cdcb>
+...
+040 (5730812.007.000) 02/16 10:26:54 Finished transferring input files
+...
+001 (5730812.006.000) 02/16 10:26:54 Job executing on host: <188.184.163.102:9618?addrs=188.184.163.102-9618+[2001-1458-301-4d--100-60]-9618&alias=b9s12p3610.cern.ch&noUDP&sock=startd_547270_474c>
+...
+040 (5730812.009.000) 02/16 10:26:55 Started transferring input files
+	Transferring to host: <188.184.162.171:9618?addrs=188.184.162.171-9618+[2001-1458-301-4a--100-a5]-9618&alias=b9s11p2936.cern.ch&noUDP&sock=slot1_12_344010_ea5e_8022>
+...
+040 (5730812.009.000) 02/16 10:26:55 Finished transferring input files
+...
+001 (5730812.009.000) 02/16 10:26:55 Job executing on host: <188.184.162.171:9618?addrs=188.184.162.171-9618+[2001-1458-301-4a--100-a5]-9618&alias=b9s11p2936.cern.ch&noUDP&sock=startd_515174_1796>
+...
+040 (5730812.008.000) 02/16 10:26:55 Started transferring input files
+	Transferring to host: <188.184.164.226:9618?addrs=188.184.164.226-9618+[2001-1458-301-4e--100-dc]-9618&alias=b9s13p9340.cern.ch&noUDP&sock=slot1_7_92024_fb97_33349>
+...
+040 (5730812.008.000) 02/16 10:26:55 Finished transferring input files
+...
+001 (5730812.008.000) 02/16 10:26:55 Job executing on host: <188.184.164.226:9618?addrs=188.184.164.226-9618+[2001-1458-301-4e--100-dc]-9618&alias=b9s13p9340.cern.ch&noUDP&sock=startd_91985_a332>
+...
+040 (5730812.010.000) 02/16 10:26:55 Started transferring input files
+	Transferring to host: <188.184.165.162:9618?addrs=188.184.165.162-9618+[2001-1458-301-51--100-9d]-9618&alias=b9s14p5891.cern.ch&noUDP&sock=slot1_33_1657575_49e6_8310>
+...
+040 (5730812.010.000) 02/16 10:26:55 Finished transferring input files
+...
+001 (5730812.010.000) 02/16 10:26:55 Job executing on host: <188.184.165.162:9618?addrs=188.184.165.162-9618+[2001-1458-301-51--100-9d]-9618&alias=b9s14p5891.cern.ch&noUDP&sock=startd_335762_620b>
+...
+040 (5730812.011.000) 02/16 10:26:56 Started transferring input files
+	Transferring to host: <188.184.163.93:9618?addrs=188.184.163.93-9618+[2001-1458-301-4d--100-57]-9618&alias=b9s12p8359.cern.ch&noUDP&sock=slot1_21_3840559_ffa8_9414>
+...
+040 (5730812.011.000) 02/16 10:26:56 Finished transferring input files
+...
+001 (5730812.011.000) 02/16 10:26:56 Job executing on host: <188.184.163.93:9618?addrs=188.184.163.93-9618+[2001-1458-301-4d--100-57]-9618&alias=b9s12p8359.cern.ch&noUDP&sock=startd_208291_e12b>
+...
+040 (5730812.012.000) 02/16 10:26:56 Started transferring input files
+	Transferring to host: <188.184.162.91:9618?addrs=188.184.162.91-9618+[2001-1458-301-4a--100-55]-9618&alias=b9s11p8672.cern.ch&noUDP&sock=slot1_8_87824_b3ec_27905>
+...
+040 (5730812.013.000) 02/16 10:26:56 Started transferring input files
+	Transferring to host: <188.184.162.150:9618?addrs=188.184.162.150-9618+[2001-1458-301-4a--100-90]-9618&alias=b9s11p8238.cern.ch&noUDP&sock=slot1_10_535865_1e78_32142>
+...
+001 (5730812.012.000) 02/16 10:26:56 Job executing on host: <188.184.162.91:9618?addrs=188.184.162.91-9618+[2001-1458-301-4a--100-55]-9618&alias=b9s11p8672.cern.ch&noUDP&sock=startd_3072_b707>
+...
+040 (5730812.012.000) 02/16 10:26:56 Finished transferring input files
+...
+001 (5730812.013.000) 02/16 10:26:56 Job executing on host: <188.184.162.150:9618?addrs=188.184.162.150-9618+[2001-1458-301-4a--100-90]-9618&alias=b9s11p8238.cern.ch&noUDP&sock=startd_535820_87e7>
+...
+040 (5730812.013.000) 02/16 10:26:56 Finished transferring input files
+...
+040 (5730812.014.000) 02/16 10:26:57 Started transferring input files
+	Transferring to host: <188.184.163.120:9618?addrs=188.184.163.120-9618+[2001-1458-301-4d--100-72]-9618&alias=b9s12p1786.cern.ch&noUDP&sock=slot1_10_1844126_5828_8109>
+...
+040 (5730812.014.000) 02/16 10:26:57 Finished transferring input files
+...
+001 (5730812.014.000) 02/16 10:26:57 Job executing on host: <188.184.163.120:9618?addrs=188.184.163.120-9618+[2001-1458-301-4d--100-72]-9618&alias=b9s12p1786.cern.ch&noUDP&sock=startd_471719_939a>
+...
+040 (5730812.015.000) 02/16 10:26:58 Started transferring input files
+	Transferring to host: <188.184.163.148:9618?addrs=188.184.163.148-9618+[2001-1458-301-4d--100-8e]-9618&alias=b9s12p6112.cern.ch&noUDP&sock=slot1_18_3711278_d6bf_7742>
+...
+040 (5730812.015.000) 02/16 10:26:58 Finished transferring input files
+...
+001 (5730812.015.000) 02/16 10:26:58 Job executing on host: <188.184.163.148:9618?addrs=188.184.163.148-9618+[2001-1458-301-4d--100-8e]-9618&alias=b9s12p6112.cern.ch&noUDP&sock=startd_49339_0754>
+...
+040 (5730812.016.000) 02/16 10:26:58 Started transferring input files
+	Transferring to host: <188.184.160.95:9618?addrs=188.184.160.95-9618+[2001-1458-301-48--100-59]-9618&alias=b9s09p6034.cern.ch&noUDP&sock=slot1_12_2843946_fb79_8254>
+...
+040 (5730812.016.000) 02/16 10:26:58 Finished transferring input files
+...
+001 (5730812.016.000) 02/16 10:26:58 Job executing on host: <188.184.160.95:9618?addrs=188.184.160.95-9618+[2001-1458-301-48--100-59]-9618&alias=b9s09p6034.cern.ch&noUDP&sock=startd_434905_3c10>
+...
+006 (5730812.000.000) 02/16 10:26:58 Image size of job updated: 1415744
+	912  -  MemoryUsage of job (MB)
+	932944  -  ResidentSetSize of job (KB)
+...
+040 (5730812.000.000) 02/16 10:26:58 Started transferring output files
+...
+040 (5730812.000.000) 02/16 10:26:58 Finished transferring output files
+...
+004 (5730812.000.000) 02/16 10:26:58 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:01:16, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28733  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.017.000) 02/16 10:26:58 Started transferring input files
+	Transferring to host: <188.184.162.137:9618?addrs=188.184.162.137-9618+[2001-1458-301-4a--100-83]-9618&alias=b9s11p7080.cern.ch&noUDP&sock=slot1_15_437384_5873_32918>
+...
+001 (5730812.017.000) 02/16 10:26:58 Job executing on host: <188.184.162.137:9618?addrs=188.184.162.137-9618+[2001-1458-301-4a--100-83]-9618&alias=b9s11p7080.cern.ch&noUDP&sock=startd_437346_8ebe>
+...
+040 (5730812.017.000) 02/16 10:26:58 Finished transferring input files
+...
+006 (5730812.006.000) 02/16 10:27:02 Image size of job updated: 500000
+	459  -  MemoryUsage of job (MB)
+	470016  -  ResidentSetSize of job (KB)
+...
+006 (5730812.007.000) 02/16 10:27:02 Image size of job updated: 750000
+	568  -  MemoryUsage of job (MB)
+	580880  -  ResidentSetSize of job (KB)
+...
+006 (5730812.009.000) 02/16 10:27:04 Image size of job updated: 500000
+	453  -  MemoryUsage of job (MB)
+	463780  -  ResidentSetSize of job (KB)
+...
+006 (5730812.008.000) 02/16 10:27:04 Image size of job updated: 750000
+	515  -  MemoryUsage of job (MB)
+	526492  -  ResidentSetSize of job (KB)
+...
+006 (5730812.011.000) 02/16 10:27:05 Image size of job updated: 475000
+	459  -  MemoryUsage of job (MB)
+	469044  -  ResidentSetSize of job (KB)
+...
+006 (5730812.012.000) 02/16 10:27:05 Image size of job updated: 480092
+	448  -  MemoryUsage of job (MB)
+	457792  -  ResidentSetSize of job (KB)
+...
+006 (5730812.013.000) 02/16 10:27:05 Image size of job updated: 529460
+	518  -  MemoryUsage of job (MB)
+	529460  -  ResidentSetSize of job (KB)
+...
+006 (5730812.015.000) 02/16 10:27:06 Image size of job updated: 483548
+	473  -  MemoryUsage of job (MB)
+	483548  -  ResidentSetSize of job (KB)
+...
+006 (5730812.016.000) 02/16 10:27:06 Image size of job updated: 487028
+	472  -  MemoryUsage of job (MB)
+	482676  -  ResidentSetSize of job (KB)
+...
+006 (5730812.014.000) 02/16 10:27:06 Image size of job updated: 582764
+	569  -  MemoryUsage of job (MB)
+	582512  -  ResidentSetSize of job (KB)
+...
+006 (5730812.017.000) 02/16 10:27:07 Image size of job updated: 501240
+	490  -  MemoryUsage of job (MB)
+	500756  -  ResidentSetSize of job (KB)
+...
+006 (5730812.005.000) 02/16 10:27:09 Image size of job updated: 1396580
+	937  -  MemoryUsage of job (MB)
+	958800  -  ResidentSetSize of job (KB)
+...
+040 (5730812.005.000) 02/16 10:27:09 Started transferring output files
+...
+040 (5730812.005.000) 02/16 10:27:09 Finished transferring output files
+...
+004 (5730812.005.000) 02/16 10:27:09 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:40, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	27890  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.003.000) 02/16 10:27:10 Image size of job updated: 1431632
+	944  -  MemoryUsage of job (MB)
+	966192  -  ResidentSetSize of job (KB)
+...
+040 (5730812.003.000) 02/16 10:27:10 Started transferring output files
+...
+040 (5730812.003.000) 02/16 10:27:10 Finished transferring output files
+...
+004 (5730812.003.000) 02/16 10:27:10 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:43, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28737  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.007.000) 02/16 10:28:08 Image size of job updated: 1386396
+	945  -  MemoryUsage of job (MB)
+	966936  -  ResidentSetSize of job (KB)
+...
+040 (5730812.007.000) 02/16 10:28:08 Started transferring output files
+...
+040 (5730812.007.000) 02/16 10:28:08 Finished transferring output files
+...
+004 (5730812.007.000) 02/16 10:28:08 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:46, Sys 0 00:00:03  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28732  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.002.000) 02/16 10:28:09 Started transferring output files
+...
+040 (5730812.002.000) 02/16 10:28:09 Finished transferring output files
+...
+004 (5730812.002.000) 02/16 10:28:09 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:01:10, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28729  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.015.000) 02/16 10:28:10 Image size of job updated: 1284148
+	884  -  MemoryUsage of job (MB)
+	904724  -  ResidentSetSize of job (KB)
+...
+040 (5730812.015.000) 02/16 10:28:10 Started transferring output files
+...
+040 (5730812.015.000) 02/16 10:28:10 Finished transferring output files
+...
+004 (5730812.015.000) 02/16 10:28:10 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:46, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	27870  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.017.000) 02/16 10:28:11 Image size of job updated: 1233328
+	834  -  MemoryUsage of job (MB)
+	853048  -  ResidentSetSize of job (KB)
+...
+040 (5730812.017.000) 02/16 10:28:11 Started transferring output files
+...
+040 (5730812.017.000) 02/16 10:28:11 Finished transferring output files
+...
+004 (5730812.017.000) 02/16 10:28:11 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:45, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	27875  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.016.000) 02/16 10:28:14 Image size of job updated: 1334876
+	885  -  MemoryUsage of job (MB)
+	906176  -  ResidentSetSize of job (KB)
+...
+040 (5730812.016.000) 02/16 10:28:14 Started transferring output files
+...
+040 (5730812.016.000) 02/16 10:28:14 Finished transferring output files
+...
+004 (5730812.016.000) 02/16 10:28:14 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:51, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28063  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.014.000) 02/16 10:28:15 Image size of job updated: 1325004
+	909  -  MemoryUsage of job (MB)
+	930316  -  ResidentSetSize of job (KB)
+...
+040 (5730812.014.000) 02/16 10:28:15 Started transferring output files
+...
+040 (5730812.014.000) 02/16 10:28:15 Finished transferring output files
+...
+004 (5730812.014.000) 02/16 10:28:15 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:52, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	27996  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.006.000) 02/16 10:28:17 Image size of job updated: 1430484
+	960  -  MemoryUsage of job (MB)
+	982576  -  ResidentSetSize of job (KB)
+...
+040 (5730812.006.000) 02/16 10:28:17 Started transferring output files
+...
+040 (5730812.006.000) 02/16 10:28:17 Finished transferring output files
+...
+004 (5730812.006.000) 02/16 10:28:17 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:57, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28732  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.011.000) 02/16 10:28:22 Image size of job updated: 1374684
+	940  -  MemoryUsage of job (MB)
+	962228  -  ResidentSetSize of job (KB)
+...
+040 (5730812.011.000) 02/16 10:28:22 Started transferring output files
+...
+040 (5730812.011.000) 02/16 10:28:22 Finished transferring output files
+...
+004 (5730812.011.000) 02/16 10:28:22 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:01:00, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28713  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.012.000) 02/16 10:28:24 Image size of job updated: 1369228
+	948  -  MemoryUsage of job (MB)
+	970412  -  ResidentSetSize of job (KB)
+...
+040 (5730812.012.000) 02/16 10:28:24 Started transferring output files
+...
+040 (5730812.012.000) 02/16 10:28:24 Finished transferring output files
+...
+004 (5730812.012.000) 02/16 10:28:24 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:56, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	27991  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.009.000) 02/16 10:28:24 Image size of job updated: 1348600
+	938  -  MemoryUsage of job (MB)
+	960224  -  ResidentSetSize of job (KB)
+...
+040 (5730812.009.000) 02/16 10:28:24 Started transferring output files
+...
+040 (5730812.009.000) 02/16 10:28:24 Finished transferring output files
+...
+004 (5730812.009.000) 02/16 10:28:24 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:58, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28830  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.008.000) 02/16 10:28:25 Image size of job updated: 1431524
+	980  -  MemoryUsage of job (MB)
+	1002628  -  ResidentSetSize of job (KB)
+...
+040 (5730812.008.000) 02/16 10:28:25 Started transferring output files
+...
+040 (5730812.008.000) 02/16 10:28:25 Finished transferring output files
+...
+004 (5730812.008.000) 02/16 10:28:25 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:01:01, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28724  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.004.000) 02/16 10:28:26 Image size of job updated: 1421784
+	967  -  MemoryUsage of job (MB)
+	989872  -  ResidentSetSize of job (KB)
+...
+040 (5730812.004.000) 02/16 10:28:26 Started transferring output files
+...
+040 (5730812.004.000) 02/16 10:28:26 Finished transferring output files
+...
+004 (5730812.004.000) 02/16 10:28:26 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:58, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28734  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.010.000) 02/16 10:28:34 Image size of job updated: 1389004
+	966  -  MemoryUsage of job (MB)
+	988432  -  ResidentSetSize of job (KB)
+...
+040 (5730812.010.000) 02/16 10:28:34 Started transferring output files
+...
+040 (5730812.010.000) 02/16 10:28:34 Finished transferring output files
+...
+004 (5730812.010.000) 02/16 10:28:34 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:53, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28729  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+006 (5730812.013.000) 02/16 10:28:54 Image size of job updated: 1376316
+	944  -  MemoryUsage of job (MB)
+	965908  -  ResidentSetSize of job (KB)
+...
+040 (5730812.013.000) 02/16 10:28:54 Started transferring output files
+...
+040 (5730812.013.000) 02/16 10:28:54 Finished transferring output files
+...
+004 (5730812.013.000) 02/16 10:28:54 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:56, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	27993  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.002.000) 02/16 10:29:51 Started transferring input files
+	Transferring to host: <128.142.60.93:9618?addrs=128.142.60.93-9618+[2001-1458-301-22--100-5c]-9618&alias=b9s05p0364.cern.ch&noUDP&sock=slot1_14_1378626_7bb6_29525>
+...
+040 (5730812.002.000) 02/16 10:29:51 Finished transferring input files
+...
+001 (5730812.002.000) 02/16 10:29:51 Job executing on host: <128.142.60.93:9618?addrs=128.142.60.93-9618+[2001-1458-301-22--100-5c]-9618&alias=b9s05p0364.cern.ch&noUDP&sock=startd_1378587_9832>
+...
+040 (5730812.000.000) 02/16 10:29:52 Started transferring input files
+	Transferring to host: <128.142.60.169:9618?addrs=128.142.60.169-9618+[2001-1458-301-22--100-a8]-9618&alias=b9s05p0166.cern.ch&noUDP&sock=slot1_26_3431812_c29b_28871>
+...
+040 (5730812.000.000) 02/16 10:29:52 Finished transferring input files
+...
+001 (5730812.000.000) 02/16 10:29:52 Job executing on host: <128.142.60.169:9618?addrs=128.142.60.169-9618+[2001-1458-301-22--100-a8]-9618&alias=b9s05p0166.cern.ch&noUDP&sock=startd_3431771_0ac1>
+...
+040 (5730812.006.000) 02/16 10:29:52 Started transferring input files
+	Transferring to host: <128.142.60.138:9618?addrs=128.142.60.138-9618+[2001-1458-301-22--100-89]-9618&alias=b9s05p0030.cern.ch&noUDP&sock=slot1_5_2002652_4096_28346>
+...
+040 (5730812.006.000) 02/16 10:29:52 Finished transferring input files
+...
+001 (5730812.006.000) 02/16 10:29:52 Job executing on host: <128.142.60.138:9618?addrs=128.142.60.138-9618+[2001-1458-301-22--100-89]-9618&alias=b9s05p0030.cern.ch&noUDP&sock=startd_2002613_86b9>
+...
+040 (5730812.004.000) 02/16 10:29:53 Started transferring input files
+	Transferring to host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=slot1_5_1720249_ca9a_28021>
+...
+040 (5730812.004.000) 02/16 10:29:53 Finished transferring input files
+...
+001 (5730812.004.000) 02/16 10:29:53 Job executing on host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=startd_1720211_3e53>
+...
+040 (5730812.005.000) 02/16 10:29:53 Started transferring input files
+	Transferring to host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=slot1_7_2569956_3db3_26983>
+...
+040 (5730812.005.000) 02/16 10:29:53 Finished transferring input files
+...
+001 (5730812.005.000) 02/16 10:29:53 Job executing on host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=startd_2569918_91e2>
+...
+040 (5730812.003.000) 02/16 10:29:53 Started transferring input files
+	Transferring to host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=slot1_12_11210_3581_27086>
+...
+040 (5730812.003.000) 02/16 10:29:53 Finished transferring input files
+...
+001 (5730812.003.000) 02/16 10:29:53 Job executing on host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=startd_11168_e5c6>
+...
+040 (5730812.001.000) 02/16 10:29:53 Started transferring input files
+	Transferring to host: <128.142.60.51:9618?addrs=128.142.60.51-9618+[2001-1458-301-22--100-32]-9618&alias=b9s05p0469.cern.ch&noUDP&sock=slot1_8_936895_086c_29566>
+...
+040 (5730812.001.000) 02/16 10:29:53 Finished transferring input files
+...
+001 (5730812.001.000) 02/16 10:29:53 Job executing on host: <128.142.60.51:9618?addrs=128.142.60.51-9618+[2001-1458-301-22--100-32]-9618&alias=b9s05p0469.cern.ch&noUDP&sock=startd_936856_dec1>
+...
+040 (5730812.009.000) 02/16 10:29:54 Started transferring input files
+	Transferring to host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=slot1_52_1720249_ca9a_28022>
+...
+040 (5730812.009.000) 02/16 10:29:54 Finished transferring input files
+...
+001 (5730812.009.000) 02/16 10:29:54 Job executing on host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=startd_1720211_3e53>
+...
+040 (5730812.008.000) 02/16 10:29:54 Started transferring input files
+	Transferring to host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=slot1_29_11210_3581_27087>
+...
+040 (5730812.008.000) 02/16 10:29:54 Finished transferring input files
+...
+001 (5730812.008.000) 02/16 10:29:54 Job executing on host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=startd_11168_e5c6>
+...
+040 (5730812.007.000) 02/16 10:29:54 Started transferring input files
+	Transferring to host: <128.142.60.138:9618?addrs=128.142.60.138-9618+[2001-1458-301-22--100-89]-9618&alias=b9s05p0030.cern.ch&noUDP&sock=slot1_6_2002652_4096_28347>
+...
+040 (5730812.007.000) 02/16 10:29:54 Finished transferring input files
+...
+001 (5730812.007.000) 02/16 10:29:54 Job executing on host: <128.142.60.138:9618?addrs=128.142.60.138-9618+[2001-1458-301-22--100-89]-9618&alias=b9s05p0030.cern.ch&noUDP&sock=startd_2002613_86b9>
+...
+040 (5730812.010.000) 02/16 10:29:55 Started transferring input files
+	Transferring to host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=slot1_8_2569956_3db3_26984>
+...
+040 (5730812.010.000) 02/16 10:29:55 Finished transferring input files
+...
+001 (5730812.010.000) 02/16 10:29:55 Job executing on host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=startd_2569918_91e2>
+...
+040 (5730812.011.000) 02/16 10:29:55 Started transferring input files
+	Transferring to host: <128.142.60.138:9618?addrs=128.142.60.138-9618+[2001-1458-301-22--100-89]-9618&alias=b9s05p0030.cern.ch&noUDP&sock=slot1_9_2002652_4096_28348>
+...
+040 (5730812.011.000) 02/16 10:29:55 Finished transferring input files
+...
+001 (5730812.011.000) 02/16 10:29:55 Job executing on host: <128.142.60.138:9618?addrs=128.142.60.138-9618+[2001-1458-301-22--100-89]-9618&alias=b9s05p0030.cern.ch&noUDP&sock=startd_2002613_86b9>
+...
+040 (5730812.012.000) 02/16 10:29:55 Started transferring input files
+	Transferring to host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=slot1_35_2569956_3db3_26985>
+...
+040 (5730812.012.000) 02/16 10:29:55 Finished transferring input files
+...
+001 (5730812.012.000) 02/16 10:29:55 Job executing on host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=startd_2569918_91e2>
+...
+040 (5730812.012.000) 02/16 10:30:30 Started transferring output files
+...
+040 (5730812.012.000) 02/16 10:30:30 Finished transferring output files
+...
+004 (5730812.012.000) 02/16 10:30:30 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:28, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28832  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.009.000) 02/16 10:30:36 Started transferring output files
+...
+040 (5730812.009.000) 02/16 10:30:36 Finished transferring output files
+...
+004 (5730812.009.000) 02/16 10:30:36 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:35, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28830  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.010.000) 02/16 10:30:37 Started transferring output files
+...
+040 (5730812.010.000) 02/16 10:30:37 Finished transferring output files
+...
+004 (5730812.010.000) 02/16 10:30:37 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:35, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28729  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.004.000) 02/16 10:30:38 Started transferring output files
+...
+040 (5730812.004.000) 02/16 10:30:38 Finished transferring output files
+...
+005 (5730812.004.000) 02/16 10:30:38 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:00:38, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:03:12, Sys 0 00:00:17  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28734  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114098  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.14        2         2 
+	   Disk (KB)            : 61351       75000   2999475 
+	   Memory (MB)          :   977        4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:30:38Z.
+...
+040 (5730812.006.000) 02/16 10:30:39 Started transferring output files
+...
+040 (5730812.006.000) 02/16 10:30:39 Finished transferring output files
+...
+004 (5730812.006.000) 02/16 10:30:39 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:38, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28732  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.009.000) 02/16 10:30:39 Started transferring input files
+	Transferring to host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=slot1_5_1720249_ca9a_28023>
+...
+040 (5730812.009.000) 02/16 10:30:39 Finished transferring input files
+...
+001 (5730812.009.000) 02/16 10:30:39 Job executing on host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=startd_1720211_3e53>
+...
+040 (5730812.011.000) 02/16 10:30:40 Started transferring output files
+...
+040 (5730812.011.000) 02/16 10:30:40 Finished transferring output files
+...
+004 (5730812.011.000) 02/16 10:30:40 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:37, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28717  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.005.000) 02/16 10:30:40 Started transferring output files
+...
+040 (5730812.005.000) 02/16 10:30:40 Finished transferring output files
+...
+004 (5730812.005.000) 02/16 10:30:40 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:40, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28728  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.007.000) 02/16 10:30:42 Started transferring output files
+...
+040 (5730812.007.000) 02/16 10:30:42 Finished transferring output files
+...
+004 (5730812.007.000) 02/16 10:30:42 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:40, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28732  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.002.000) 02/16 10:30:43 Started transferring output files
+...
+040 (5730812.002.000) 02/16 10:30:43 Finished transferring output files
+...
+005 (5730812.002.000) 02/16 10:30:43 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:00:44, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:03:44, Sys 0 00:00:19  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28729  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114074  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :    66866    75000   2989103 
+	   Memory (MB)          :      977     4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:30:43Z.
+...
+040 (5730812.005.000) 02/16 10:30:44 Started transferring input files
+	Transferring to host: <128.142.60.93:9618?addrs=128.142.60.93-9618+[2001-1458-301-22--100-5c]-9618&alias=b9s05p0364.cern.ch&noUDP&sock=slot1_14_1378626_7bb6_29526>
+...
+001 (5730812.005.000) 02/16 10:30:44 Job executing on host: <128.142.60.93:9618?addrs=128.142.60.93-9618+[2001-1458-301-22--100-5c]-9618&alias=b9s05p0364.cern.ch&noUDP&sock=startd_1378587_9832>
+...
+040 (5730812.005.000) 02/16 10:30:44 Finished transferring input files
+...
+040 (5730812.000.000) 02/16 10:30:44 Started transferring output files
+...
+040 (5730812.000.000) 02/16 10:30:44 Finished transferring output files
+...
+004 (5730812.000.000) 02/16 10:30:44 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:45, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28729  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.001.000) 02/16 10:30:59 Started transferring output files
+...
+040 (5730812.001.000) 02/16 10:30:59 Finished transferring output files
+...
+004 (5730812.001.000) 02/16 10:30:59 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:44, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28739  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.008.000) 02/16 10:31:00 Started transferring output files
+...
+040 (5730812.008.000) 02/16 10:31:00 Finished transferring output files
+...
+004 (5730812.008.000) 02/16 10:31:00 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:01:00, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28724  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.003.000) 02/16 10:31:05 Started transferring output files
+...
+040 (5730812.003.000) 02/16 10:31:05 Finished transferring output files
+...
+004 (5730812.003.000) 02/16 10:31:05 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:01:05, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28737  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.009.000) 02/16 10:31:21 Started transferring output files
+...
+040 (5730812.009.000) 02/16 10:31:21 Finished transferring output files
+...
+005 (5730812.009.000) 02/16 10:31:21 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:00:35, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:03:03, Sys 0 00:00:17  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28830  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114479  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :    48032    50000   2999476 
+	   Memory (MB)          :      977     4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:31:21Z.
+...
+040 (5730812.000.000) 02/16 10:31:21 Started transferring input files
+	Transferring to host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=slot1_5_1720249_ca9a_28024>
+...
+040 (5730812.000.000) 02/16 10:31:21 Finished transferring input files
+...
+001 (5730812.000.000) 02/16 10:31:21 Job executing on host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=startd_1720211_3e53>
+...
+040 (5730812.005.000) 02/16 10:31:30 Started transferring output files
+...
+040 (5730812.005.000) 02/16 10:31:30 Finished transferring output files
+...
+004 (5730812.005.000) 02/16 10:31:30 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:39, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28728  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.000.000) 02/16 10:32:13 Started transferring output files
+...
+040 (5730812.000.000) 02/16 10:32:13 Finished transferring output files
+...
+005 (5730812.000.000) 02/16 10:32:13 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:00:45, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:03:30, Sys 0 00:00:18  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28733  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114090  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :    73076    75000   2999475 
+	   Memory (MB)          :      977     4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:32:13Z.
+...
+040 (5730812.001.000) 02/16 10:32:14 Started transferring input files
+	Transferring to host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=slot1_5_1720249_ca9a_28025>
+...
+040 (5730812.001.000) 02/16 10:32:14 Finished transferring input files
+...
+001 (5730812.001.000) 02/16 10:32:14 Job executing on host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=startd_1720211_3e53>
+...
+040 (5730812.001.000) 02/16 10:33:04 Started transferring output files
+...
+040 (5730812.001.000) 02/16 10:33:04 Finished transferring output files
+...
+005 (5730812.001.000) 02/16 10:33:04 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:00:43, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:03:22, Sys 0 00:00:18  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28743  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114130  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :    70826    75000   2999437 
+	   Memory (MB)          :      977     4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:33:04Z.
+...
+040 (5730812.003.000) 02/16 10:33:04 Started transferring input files
+	Transferring to host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=slot1_5_1720249_ca9a_28027>
+...
+040 (5730812.003.000) 02/16 10:33:04 Finished transferring input files
+...
+001 (5730812.003.000) 02/16 10:33:04 Job executing on host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=startd_1720211_3e53>
+...
+040 (5730812.003.000) 02/16 10:33:51 Started transferring output files
+...
+040 (5730812.003.000) 02/16 10:33:51 Finished transferring output files
+...
+005 (5730812.003.000) 02/16 10:33:51 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:00:41, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:03:06, Sys 0 00:00:18  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28737  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114110  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :    65123    75000   2999437 
+	   Memory (MB)          :      977     4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:33:51Z.
+...
+040 (5730812.006.000) 02/16 10:37:04 Started transferring input files
+	Transferring to host: <128.142.60.93:9618?addrs=128.142.60.93-9618+[2001-1458-301-22--100-5c]-9618&alias=b9s05p0364.cern.ch&noUDP&sock=slot1_14_1378626_7bb6_29529>
+...
+001 (5730812.006.000) 02/16 10:37:04 Job executing on host: <128.142.60.93:9618?addrs=128.142.60.93-9618+[2001-1458-301-22--100-5c]-9618&alias=b9s05p0364.cern.ch&noUDP&sock=startd_1378587_9832>
+...
+040 (5730812.006.000) 02/16 10:37:04 Finished transferring input files
+...
+040 (5730812.008.000) 02/16 10:37:04 Started transferring input files
+	Transferring to host: <128.142.60.169:9618?addrs=128.142.60.169-9618+[2001-1458-301-22--100-a8]-9618&alias=b9s05p0166.cern.ch&noUDP&sock=slot1_26_3431812_c29b_28878>
+...
+040 (5730812.008.000) 02/16 10:37:04 Finished transferring input files
+...
+001 (5730812.008.000) 02/16 10:37:04 Job executing on host: <128.142.60.169:9618?addrs=128.142.60.169-9618+[2001-1458-301-22--100-a8]-9618&alias=b9s05p0166.cern.ch&noUDP&sock=startd_3431771_0ac1>
+...
+040 (5730812.010.000) 02/16 10:37:04 Started transferring input files
+	Transferring to host: <128.142.60.51:9618?addrs=128.142.60.51-9618+[2001-1458-301-22--100-32]-9618&alias=b9s05p0469.cern.ch&noUDP&sock=slot1_8_936895_086c_29569>
+...
+040 (5730812.010.000) 02/16 10:37:04 Finished transferring input files
+...
+001 (5730812.010.000) 02/16 10:37:04 Job executing on host: <128.142.60.51:9618?addrs=128.142.60.51-9618+[2001-1458-301-22--100-32]-9618&alias=b9s05p0469.cern.ch&noUDP&sock=startd_936856_dec1>
+...
+040 (5730812.007.000) 02/16 10:37:04 Started transferring input files
+	Transferring to host: <128.142.60.164:9618?addrs=128.142.60.164-9618+[2001-1458-301-22--100-a3]-9618&alias=b9s05p0387.cern.ch&noUDP&sock=slot1_2_3957875_bbcb_28105>
+...
+040 (5730812.007.000) 02/16 10:37:04 Finished transferring input files
+...
+001 (5730812.007.000) 02/16 10:37:04 Job executing on host: <128.142.60.164:9618?addrs=128.142.60.164-9618+[2001-1458-301-22--100-a3]-9618&alias=b9s05p0387.cern.ch&noUDP&sock=startd_3957837_8fcc>
+...
+040 (5730812.005.000) 02/16 10:37:04 Started transferring input files
+	Transferring to host: <128.142.248.123:9618?addrs=128.142.248.123-9618+[2001-1458-301-73--100-16b]-9618&alias=b9g23p2657.cern.ch&noUDP&sock=slot1_19_5505_8539_67350>
+...
+040 (5730812.005.000) 02/16 10:37:04 Finished transferring input files
+...
+001 (5730812.005.000) 02/16 10:37:04 Job executing on host: <128.142.248.123:9618?addrs=128.142.248.123-9618+[2001-1458-301-73--100-16b]-9618&alias=b9g23p2657.cern.ch&noUDP&sock=startd_4241_8d3d>
+...
+040 (5730812.012.000) 02/16 10:37:05 Started transferring input files
+	Transferring to host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=slot1_5_1720249_ca9a_28028>
+...
+040 (5730812.012.000) 02/16 10:37:05 Finished transferring input files
+...
+001 (5730812.012.000) 02/16 10:37:05 Job executing on host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=startd_1720211_3e53>
+...
+040 (5730812.013.000) 02/16 10:37:05 Started transferring input files
+	Transferring to host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=slot1_12_11210_3581_27092>
+...
+040 (5730812.013.000) 02/16 10:37:05 Finished transferring input files
+...
+001 (5730812.013.000) 02/16 10:37:05 Job executing on host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=startd_11168_e5c6>
+...
+040 (5730812.015.000) 02/16 10:37:06 Started transferring input files
+	Transferring to host: <128.142.60.138:9618?addrs=128.142.60.138-9618+[2001-1458-301-22--100-89]-9618&alias=b9s05p0030.cern.ch&noUDP&sock=slot1_5_2002652_4096_28352>
+...
+040 (5730812.015.000) 02/16 10:37:06 Finished transferring input files
+...
+001 (5730812.015.000) 02/16 10:37:06 Job executing on host: <128.142.60.138:9618?addrs=128.142.60.138-9618+[2001-1458-301-22--100-89]-9618&alias=b9s05p0030.cern.ch&noUDP&sock=startd_2002613_86b9>
+...
+040 (5730812.014.000) 02/16 10:37:06 Started transferring input files
+	Transferring to host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=slot1_7_2569956_3db3_26987>
+...
+040 (5730812.014.000) 02/16 10:37:06 Finished transferring input files
+...
+001 (5730812.014.000) 02/16 10:37:06 Job executing on host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=startd_2569918_91e2>
+...
+040 (5730812.011.000) 02/16 10:37:06 Started transferring input files
+	Transferring to host: <128.142.60.133:9618?addrs=128.142.60.133-9618+[2001-1458-301-22--100-84]-9618&alias=b9s05p0039.cern.ch&noUDP&sock=slot1_11_45480_8633_27940>
+...
+040 (5730812.011.000) 02/16 10:37:06 Finished transferring input files
+...
+001 (5730812.011.000) 02/16 10:37:06 Job executing on host: <128.142.60.133:9618?addrs=128.142.60.133-9618+[2001-1458-301-22--100-84]-9618&alias=b9s05p0039.cern.ch&noUDP&sock=startd_45439_f3f9>
+...
+040 (5730812.016.000) 02/16 10:37:06 Started transferring input files
+	Transferring to host: <128.142.60.164:9618?addrs=128.142.60.164-9618+[2001-1458-301-22--100-a3]-9618&alias=b9s05p0387.cern.ch&noUDP&sock=slot1_17_3957875_bbcb_28106>
+...
+040 (5730812.016.000) 02/16 10:37:06 Finished transferring input files
+...
+001 (5730812.016.000) 02/16 10:37:06 Job executing on host: <128.142.60.164:9618?addrs=128.142.60.164-9618+[2001-1458-301-22--100-a3]-9618&alias=b9s05p0387.cern.ch&noUDP&sock=startd_3957837_8fcc>
+...
+040 (5730812.017.000) 02/16 10:37:07 Started transferring input files
+	Transferring to host: <128.142.60.133:9618?addrs=128.142.60.133-9618+[2001-1458-301-22--100-84]-9618&alias=b9s05p0039.cern.ch&noUDP&sock=slot1_31_45480_8633_27942>
+...
+001 (5730812.017.000) 02/16 10:37:07 Job executing on host: <128.142.60.133:9618?addrs=128.142.60.133-9618+[2001-1458-301-22--100-84]-9618&alias=b9s05p0039.cern.ch&noUDP&sock=startd_45439_f3f9>
+...
+040 (5730812.017.000) 02/16 10:37:07 Finished transferring input files
+...
+040 (5730812.012.000) 02/16 10:37:42 Started transferring output files
+...
+040 (5730812.012.000) 02/16 10:37:42 Finished transferring output files
+...
+004 (5730812.012.000) 02/16 10:37:42 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:31, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28832  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.010.000) 02/16 10:37:47 Started transferring output files
+...
+040 (5730812.010.000) 02/16 10:37:47 Finished transferring output files
+...
+005 (5730812.010.000) 02/16 10:37:47 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:00:35, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:02:36, Sys 0 00:00:16  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28725  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114071  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :    48649    50000   2993475 
+	   Memory (MB)          :      977     4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:37:47Z.
+...
+040 (5730812.012.000) 02/16 10:37:48 Started transferring input files
+	Transferring to host: <128.142.60.51:9618?addrs=128.142.60.51-9618+[2001-1458-301-22--100-32]-9618&alias=b9s05p0469.cern.ch&noUDP&sock=slot1_8_936895_086c_29572>
+...
+040 (5730812.012.000) 02/16 10:37:48 Finished transferring input files
+...
+001 (5730812.012.000) 02/16 10:37:48 Job executing on host: <128.142.60.51:9618?addrs=128.142.60.51-9618+[2001-1458-301-22--100-32]-9618&alias=b9s05p0469.cern.ch&noUDP&sock=startd_936856_dec1>
+...
+040 (5730812.006.000) 02/16 10:37:51 Started transferring output files
+...
+040 (5730812.006.000) 02/16 10:37:51 Finished transferring output files
+...
+005 (5730812.006.000) 02/16 10:37:51 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:00:39, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:03:14, Sys 0 00:00:17  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28732  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114090  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :    58748    75000   2989075 
+	   Memory (MB)          :      977     4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:37:51Z.
+...
+040 (5730812.014.000) 02/16 10:37:56 Started transferring output files
+...
+040 (5730812.014.000) 02/16 10:37:56 Finished transferring output files
+...
+004 (5730812.014.000) 02/16 10:37:56 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:29, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28837  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.017.000) 02/16 10:37:57 Started transferring output files
+...
+040 (5730812.017.000) 02/16 10:37:57 Finished transferring output files
+...
+004 (5730812.017.000) 02/16 10:37:57 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:25, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28716  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.008.000) 02/16 10:38:00 Started transferring output files
+...
+040 (5730812.008.000) 02/16 10:38:00 Finished transferring output files
+...
+005 (5730812.008.000) 02/16 10:38:00 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:00:35, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:03:10, Sys 0 00:00:17  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28720  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114054  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :    52747    75000   3002069 
+	   Memory (MB)          :     1221     4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:37:59Z.
+...
+040 (5730812.014.000) 02/16 10:38:00 Started transferring input files
+	Transferring to host: <128.142.60.169:9618?addrs=128.142.60.169-9618+[2001-1458-301-22--100-a8]-9618&alias=b9s05p0166.cern.ch&noUDP&sock=slot1_26_3431812_c29b_28879>
+...
+040 (5730812.014.000) 02/16 10:38:00 Finished transferring input files
+...
+001 (5730812.014.000) 02/16 10:38:00 Job executing on host: <128.142.60.169:9618?addrs=128.142.60.169-9618+[2001-1458-301-22--100-a8]-9618&alias=b9s05p0166.cern.ch&noUDP&sock=startd_3431771_0ac1>
+...
+040 (5730812.016.000) 02/16 10:38:01 Started transferring output files
+...
+040 (5730812.016.000) 02/16 10:38:01 Finished transferring output files
+...
+004 (5730812.016.000) 02/16 10:38:01 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:32, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28900  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.015.000) 02/16 10:38:02 Started transferring output files
+...
+040 (5730812.015.000) 02/16 10:38:02 Finished transferring output files
+...
+004 (5730812.015.000) 02/16 10:38:02 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:29, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28723  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.011.000) 02/16 10:38:04 Started transferring output files
+...
+040 (5730812.011.000) 02/16 10:38:04 Finished transferring output files
+...
+005 (5730812.011.000) 02/16 10:38:04 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:00:34, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:02:42, Sys 0 00:00:16  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28717  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114023  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :    46042    47500   3021185 
+	   Memory (MB)          :      977     4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:38:04Z.
+...
+040 (5730812.007.000) 02/16 10:38:09 Started transferring output files
+...
+040 (5730812.007.000) 02/16 10:38:09 Finished transferring output files
+...
+005 (5730812.007.000) 02/16 10:38:09 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:00:36, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:02:37, Sys 0 00:00:16  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28728  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114086  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :    56024    75000   3001122 
+	   Memory (MB)          :      977     4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:38:09Z.
+...
+040 (5730812.015.000) 02/16 10:38:23 Started transferring input files
+	Transferring to host: <128.142.60.133:9618?addrs=128.142.60.133-9618+[2001-1458-301-22--100-84]-9618&alias=b9s05p0039.cern.ch&noUDP&sock=slot1_11_45480_8633_27945>
+...
+040 (5730812.015.000) 02/16 10:38:23 Finished transferring input files
+...
+001 (5730812.015.000) 02/16 10:38:23 Job executing on host: <128.142.60.133:9618?addrs=128.142.60.133-9618+[2001-1458-301-22--100-84]-9618&alias=b9s05p0039.cern.ch&noUDP&sock=startd_45439_f3f9>
+...
+040 (5730812.017.000) 02/16 10:38:24 Started transferring input files
+	Transferring to host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=slot1_5_1720249_ca9a_28032>
+...
+040 (5730812.017.000) 02/16 10:38:24 Finished transferring input files
+...
+001 (5730812.017.000) 02/16 10:38:24 Job executing on host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=startd_1720211_3e53>
+...
+040 (5730812.016.000) 02/16 10:38:24 Started transferring input files
+	Transferring to host: <128.142.60.164:9618?addrs=128.142.60.164-9618+[2001-1458-301-22--100-a3]-9618&alias=b9s05p0387.cern.ch&noUDP&sock=slot1_2_3957875_bbcb_28111>
+...
+040 (5730812.016.000) 02/16 10:38:24 Finished transferring input files
+...
+001 (5730812.016.000) 02/16 10:38:24 Job executing on host: <128.142.60.164:9618?addrs=128.142.60.164-9618+[2001-1458-301-22--100-a3]-9618&alias=b9s05p0387.cern.ch&noUDP&sock=startd_3957837_8fcc>
+...
+040 (5730812.012.000) 02/16 10:38:26 Started transferring output files
+...
+040 (5730812.012.000) 02/16 10:38:26 Finished transferring output files
+...
+005 (5730812.012.000) 02/16 10:38:26 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:00:31, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:02:26, Sys 0 00:00:17  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28828  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114483  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :    43128    45000   2993475 
+	   Memory (MB)          :      977     4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:38:26Z.
+...
+040 (5730812.014.000) 02/16 10:38:38 Started transferring output files
+...
+040 (5730812.014.000) 02/16 10:38:38 Finished transferring output files
+...
+004 (5730812.014.000) 02/16 10:38:38 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:32, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28833  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.013.000) 02/16 10:38:52 Started transferring output files
+...
+040 (5730812.013.000) 02/16 10:38:52 Finished transferring output files
+...
+004 (5730812.013.000) 02/16 10:38:52 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:50, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28834  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.017.000) 02/16 10:38:56 Started transferring output files
+...
+040 (5730812.017.000) 02/16 10:38:56 Finished transferring output files
+...
+004 (5730812.017.000) 02/16 10:38:56 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:26, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28716  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.015.000) 02/16 10:38:57 Started transferring output files
+...
+040 (5730812.015.000) 02/16 10:38:57 Finished transferring output files
+...
+004 (5730812.015.000) 02/16 10:38:57 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:27, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28723  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.005.000) 02/16 10:39:01 Started transferring output files
+...
+040 (5730812.005.000) 02/16 10:39:01 Finished transferring output files
+...
+005 (5730812.005.000) 02/16 10:39:01 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:01:09, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:03:08, Sys 0 00:00:17  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28728  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114074  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :    60619    75000   3068299 
+	   Memory (MB)          :      977     4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:39:01Z.
+...
+040 (5730812.013.000) 02/16 10:39:02 Started transferring input files
+	Transferring to host: <128.142.248.123:9618?addrs=128.142.248.123-9618+[2001-1458-301-73--100-16b]-9618&alias=b9g23p2657.cern.ch&noUDP&sock=slot1_19_5505_8539_67351>
+...
+040 (5730812.013.000) 02/16 10:39:02 Finished transferring input files
+...
+001 (5730812.013.000) 02/16 10:39:02 Job executing on host: <128.142.248.123:9618?addrs=128.142.248.123-9618+[2001-1458-301-73--100-16b]-9618&alias=b9g23p2657.cern.ch&noUDP&sock=startd_4241_8d3d>
+...
+040 (5730812.016.000) 02/16 10:39:02 Started transferring output files
+...
+040 (5730812.016.000) 02/16 10:39:02 Finished transferring output files
+...
+004 (5730812.016.000) 02/16 10:39:02 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:31, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28900  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.013.000) 02/16 10:40:04 Started transferring output files
+...
+040 (5730812.013.000) 02/16 10:40:04 Finished transferring output files
+...
+004 (5730812.013.000) 02/16 10:40:04 Job was evicted.
+	(0) Job terminated and was requeued
+		Usr 0 00:00:52, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	28834  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	(1) Normal termination (return value 54)
+	The job attribute OnExitRemove expression 'NumJobCompletions > JobMaxRetries || ExitCode =?= 0 || (ExitBySignal == false) && ((ExitCode == 1) || (ExitCode == 0))' evaluated to FALSE
+...
+040 (5730812.013.000) 02/16 10:41:24 Started transferring input files
+	Transferring to host: <128.142.60.133:9618?addrs=128.142.60.133-9618+[2001-1458-301-22--100-84]-9618&alias=b9s05p0039.cern.ch&noUDP&sock=slot1_11_45480_8633_27946>
+...
+040 (5730812.013.000) 02/16 10:41:24 Finished transferring input files
+...
+001 (5730812.013.000) 02/16 10:41:24 Job executing on host: <128.142.60.133:9618?addrs=128.142.60.133-9618+[2001-1458-301-22--100-84]-9618&alias=b9s05p0039.cern.ch&noUDP&sock=startd_45439_f3f9>
+...
+040 (5730812.015.000) 02/16 10:41:24 Started transferring input files
+	Transferring to host: <128.142.60.138:9618?addrs=128.142.60.138-9618+[2001-1458-301-22--100-89]-9618&alias=b9s05p0030.cern.ch&noUDP&sock=slot1_5_2002652_4096_28362>
+...
+040 (5730812.015.000) 02/16 10:41:24 Finished transferring input files
+...
+001 (5730812.015.000) 02/16 10:41:24 Job executing on host: <128.142.60.138:9618?addrs=128.142.60.138-9618+[2001-1458-301-22--100-89]-9618&alias=b9s05p0030.cern.ch&noUDP&sock=startd_2002613_86b9>
+...
+040 (5730812.014.000) 02/16 10:41:24 Started transferring input files
+	Transferring to host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=slot1_5_1720249_ca9a_28033>
+...
+040 (5730812.014.000) 02/16 10:41:24 Finished transferring input files
+...
+001 (5730812.014.000) 02/16 10:41:24 Job executing on host: <128.142.60.65:9618?addrs=128.142.60.65-9618+[2001-1458-301-22--100-40]-9618&alias=b9s05p0611.cern.ch&noUDP&sock=startd_1720211_3e53>
+...
+040 (5730812.016.000) 02/16 10:41:24 Started transferring input files
+	Transferring to host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=slot1_12_11210_3581_27104>
+...
+040 (5730812.016.000) 02/16 10:41:24 Finished transferring input files
+...
+001 (5730812.016.000) 02/16 10:41:24 Job executing on host: <128.142.248.218:9618?addrs=128.142.248.218-9618+[2001-1458-301-73--100-d9]-9618&alias=b9g23p2883.cern.ch&noUDP&sock=startd_11168_e5c6>
+...
+040 (5730812.017.000) 02/16 10:41:24 Started transferring input files
+	Transferring to host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=slot1_7_2569956_3db3_27001>
+...
+040 (5730812.017.000) 02/16 10:41:24 Finished transferring input files
+...
+001 (5730812.017.000) 02/16 10:41:24 Job executing on host: <128.142.60.130:9618?addrs=128.142.60.130-9618+[2001-1458-301-22--100-81]-9618&alias=b9s05p0347.cern.ch&noUDP&sock=startd_2569918_91e2>
+...
+040 (5730812.017.000) 02/16 10:41:56 Started transferring output files
+...
+040 (5730812.017.000) 02/16 10:41:56 Finished transferring output files
+...
+005 (5730812.017.000) 02/16 10:41:56 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:00:25, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:02:01, Sys 0 00:00:16  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28716  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114023  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :    27947    30000   2962485 
+	   Memory (MB)          :      977     4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:41:56Z.
+...
+040 (5730812.013.000) 02/16 10:41:59 Started transferring output files
+...
+040 (5730812.014.000) 02/16 10:41:59 Started transferring output files
+...
+040 (5730812.013.000) 02/16 10:41:59 Finished transferring output files
+...
+040 (5730812.014.000) 02/16 10:41:59 Finished transferring output files
+...
+005 (5730812.013.000) 02/16 10:41:59 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:00:28, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:03:06, Sys 0 00:00:17  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28834  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114495  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :    41829    42500   3021121 
+	   Memory (MB)          :      977     4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:41:59Z.
+...
+005 (5730812.014.000) 02/16 10:41:59 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:00:29, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:02:22, Sys 0 00:00:17  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28837  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114503  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :    40865    42500   2999459 
+	   Memory (MB)          :      977     4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:41:59Z.
+...
+040 (5730812.015.000) 02/16 10:42:01 Started transferring output files
+...
+040 (5730812.015.000) 02/16 10:42:01 Finished transferring output files
+...
+005 (5730812.015.000) 02/16 10:42:01 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:00:30, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:02:12, Sys 0 00:00:18  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28723  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114039  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :    35600    37500   2994062 
+	   Memory (MB)          :      977     4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:42:01Z.
+...
+040 (5730812.016.000) 02/16 10:42:24 Started transferring output files
+...
+040 (5730812.016.000) 02/16 10:42:24 Finished transferring output files
+...
+005 (5730812.016.000) 02/16 10:42:24 Job terminated.
+	(1) Normal termination (return value 54)
+		Usr 0 00:00:53, Sys 0 00:00:03  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:02:47, Sys 0 00:00:17  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	28904  -  Run Bytes Sent By Job
+	3042  -  Run Bytes Received By Job
+	114767  -  Total Bytes Sent By Job
+	12168  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        2         2 
+	   Disk (KB)            :    39242    40000   3048784 
+	   Memory (MB)          :      977     4096      4100 
+
+	Job terminated of its own accord at 2024-02-16T09:42:24Z.
+...

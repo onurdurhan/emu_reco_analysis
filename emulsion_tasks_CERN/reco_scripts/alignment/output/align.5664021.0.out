@@ -1,0 +1,64 @@
+Set up SND environment
+search libraries in slc9_x86-64
+go into reconstruction folder 
+do alignment
+makescanset     :  for id 000051.0.0.0
+EdbScanSet::MakeNominalSet: 000051.0.0.0
+EdbScanProc::CheckDir: create directory ../b000051/AFF
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+EdbScanSet: 000051.0.0.0
+Brick 51 with 2 plates:
+ 20          0.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+ 19      -1350.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+for this brick 0 identifiers are defined:
+Starting first align
+
+----------------------------------------------------------------------------
+align set 51.0.0.0
+----------------------------------------------------------------------------
+
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+MakeAlignSetSummary: ../b000051/b000051.0.0.0.align.ps
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+makescanset     :  for id 000051.0.0.0
+EdbScanSet::MakeNominalSet: 000051.0.0.0
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+EdbScanSet: 000051.0.0.0
+Brick 51 with 2 plates:
+ 20          0.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+ 19      -1300.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+for this brick 0 identifiers are defined:
+Starting second align
+
+----------------------------------------------------------------------------
+align set 51.0.0.0
+----------------------------------------------------------------------------
+
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+MakeAlignSetSummary: ../b000051/b000051.0.0.0.align.ps
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+makescanset     :  for id 000051.0.0.0
+EdbScanSet::MakeNominalSet: 000051.0.0.0
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+EdbScanSet: 000051.0.0.0
+Brick 51 with 2 plates:
+ 20          0.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+ 19      -1300.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+for this brick 0 identifiers are defined:
+Starting test align with very precise parameters
+
+----------------------------------------------------------------------------
+align set 51.0.0.0
+----------------------------------------------------------------------------
+
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+MakeAlignSetSummary: ../b000051/b000051.0.0.0.align.ps
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+Tasks Finished  AFF align.rootrc align.save.rootrc b000051.0.0.0.set.root p019 p020
+p019/51.19.0.0.cp.root p020/51.20.0.0.cp.root

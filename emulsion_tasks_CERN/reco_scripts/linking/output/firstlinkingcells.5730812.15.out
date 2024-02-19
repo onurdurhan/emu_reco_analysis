@@ -1,0 +1,350 @@
+Set up SND environment
+search libraries in slc9_x86-64
+do linking for cell 287
+from plate  32
+to plate  30
+/pool/condor/dir_3196026 is the currrent path
+created link p030 to folder /eos/experiment/sndlhc/emulsionData/2022/CERN/SND_mic2/RUN3/RUN3_W5_B1/P030
+The current directory /pool/condor/dir_3196026/b000051
+the content of the directory total 0 drwxr-xr-x. 2 onur sndlhc-cg 42 Feb 16 10:41 . drwxr-xr-x. 3 onur sndlhc-cg 49 Feb 16 10:41 .. lrwxrwxrwx. 1 onur sndlhc-cg 91 Feb 16 10:41 51.30.16.18.raw.root -> /eos/experiment/sndlhc/emulsionData/2022/CERN/SND_mic2/RUN3/RUN3_W5_B1/P030/tracks.raw.root
+p030/51.30.16.18.raw.root
+created link p031 to folder /eos/experiment/sndlhc/emulsionData/2022/CERN/SND_mic2/RUN3/RUN3_W5_B1/P031
+The current directory /pool/condor/dir_3196026/b000051
+the content of the directory total 0 drwxr-xr-x. 2 onur sndlhc-cg 42 Feb 16 10:41 . drwxr-xr-x. 4 onur sndlhc-cg 65 Feb 16 10:41 .. lrwxrwxrwx. 1 onur sndlhc-cg 91 Feb 16 10:41 51.31.16.18.raw.root -> /eos/experiment/sndlhc/emulsionData/2022/CERN/SND_mic2/RUN3/RUN3_W5_B1/P031/tracks.raw.root
+p031/51.31.16.18.raw.root
+created link p032 to folder /eos/experiment/sndlhc/emulsionData/2022/CERN/SND_mic2/RUN3/RUN3_W5_B1/P032
+The current directory /pool/condor/dir_3196026/b000051
+the content of the directory total 0 drwxr-xr-x. 2 onur sndlhc-cg 42 Feb 16 10:41 . drwxr-xr-x. 5 onur sndlhc-cg 81 Feb 16 10:41 .. lrwxrwxrwx. 1 onur sndlhc-cg 91 Feb 16 10:41 51.32.16.18.raw.root -> /eos/experiment/sndlhc/emulsionData/2022/CERN/SND_mic2/RUN3/RUN3_W5_B1/P032/tracks.raw.root
+p032/51.32.16.18.raw.root
+makescanset     :  for id 000051.0.16.18
+EdbScanSet::MakeNominalSet: 000051.0.16.18
+EdbScanProc::CheckDir: create directory ../b000051/AFF
+MakeAFFSet      : ../b000051/AFF/51.32.16.18_51.31.16.18.aff.par as ZLAYER 0 -1300.000000 0 0
+MakeAFFSet      : ../b000051/AFF/51.32.16.18_51.31.16.18.aff.par as AFFXY 0 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000
+MakeAFFSet      : ../b000051/AFF/51.31.16.18_51.30.16.18.aff.par as ZLAYER 0 -1300.000000 0 0
+MakeAFFSet      : ../b000051/AFF/51.31.16.18_51.30.16.18.aff.par as AFFXY 0 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000
+ReadScanSet     : from ../b000051/b000051.0.16.18.set.root
+EdbScanSet: 000051.0.16.18
+Brick 51 with 3 plates:
+ 32          0.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+ 31      -1300.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+ 30      -2600.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+for this brick 3 identifiers are defined:
+000051.32.16.18  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+000051.31.16.18  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+000051.30.16.18  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+Starting pre-linking
+makescanset     :  for id 000051.0.16.18
+EdbScanSet::MakeNominalSet: 000051.0.16.18
+ReadScanSet     : from ../b000051/b000051.0.16.18.set.root
+ReadScanSet     : from ../b000051/b000051.0.16.18.set.root
+ReadScanSet     : from ../b000051/b000051.0.16.18.set.root
+ReadScanSet     : from ../b000051/b000051.0.16.18.set.root
+EdbScanSet: 000051.0.16.18
+Brick 51 with 3 plates:
+ 32          0.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+ 31      -1300.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+ 30      -2600.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+for this brick 3 identifiers are defined:
+000051.32.16.18  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+000051.31.16.18  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+000051.30.16.18  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+
+----------------------------------------------------------------------------
+link set with id= 51.0.16.18
+----------------------------------------------------------------------------
+
+ReadScanSet     : from ../b000051/b000051.0.16.18.set.root
+EdbScanProc::LinkRunTest ** processing cell 15 17
+LinkRunTest     : cell layout, 18 x cells from 5000.000000 to 185000.000000, 18 y cells from 5000.000000 to 185000.000000
+OBJ: TCut		TMath::Abs(eXview-160000.000000) < 6250.000000 && TMath::Abs(eYview-180000.000000) < 6250.000000
+EdbScanProc::LinkRunTest ** AFID=1
+EdbRunAccess::FillVP: Get data from ../b000051/p032/51.32.16.18.raw.root with AFID=1
+EdbRunAccess::FillVP:  96 entries in limits X=(154289.250000 : 165840.968750) Y=(173817.937500 174948.453125)
+
+EdbRunAccess::InitRun: ../b000051/p032/51.32.16.18.raw.root AFID=1
+InitRunAccess   :  ../b000051/p032/51.32.16.18.raw.root with 140732 views
+EdbRunAccess::GetPatternDataForPrediction: 48 views are selected for side 2
+GetPatternDataForPrediction: 70430 segments for pred -1, side 2 from ../b000051/p032/51.32.16.18.raw.root
+EdbRunAccess::GetPatternDataForPrediction: 48 views are selected for side 1
+GetPatternDataForPrediction: 38301 segments for pred -1, side 1 from ../b000051/p032/51.32.16.18.raw.root
+EdbRunAccess::CheckUpDownOffsets: WARNING!!! XY stage possible malfunction (rms>0.5 micron) rmsX =  1.4234  rmsY =  0.8661 (by 48 views)
+EdbRunAccess::CheckViewSize:  side1    X:[-249.500000 249.500000]   Y:[-249.500000 249.500000]
+EdbRunAccess::CheckViewSize:  side2    X:[-249.500000 249.500000]   Y:[-249.500000 249.500000]
+EdbLinking::Link: patterns with 38301 and 70430 segments and z1 = 87.500000  z2 = -87.500000
+EdbLinking::Link: segments z1 = 87.500000  z2 = -87.500000
+EdbScanCond::DefineLLFunction: 0.256336-0.16489*x+2.11098*x*x
+ThetaLimits: 0.050000 1.000000
+EdbLinking::Link: after preselection: n1pre = 17701  n2pre = 40812
+DubletsFilterOut: miss: 4680 wrong: 1
+DubletsFilterOut: 362 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.10000 0.10000) checkview =1
+DubletsFilterOut: miss: 19447 wrong: 11
+DubletsFilterOut: 4622 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.10000 0.10000) checkview =1
+EdbSEQ::EqualizeMT: selected 100.0% (17701 of 17701) segments in area of     0.2 cm²
+EdbSEQ::EqualizeMT: selected 100.0% (40812 of 40812) segments in area of     0.2 cm²
+EdbLinking::Link: A n1shr = 17701  n2shr = 40812
+EdbLinking::CorrectShrinkage: side1: 0.735000 (0.700000)   side2: 0.758333 (0.700000)
+EdbLinking::CorrectShrinkage: side1: 0.777000 (0.735000)   side2: 0.780867 (0.758333)
+EdbLinking::CorrectAngles: arrays with 17701 and 40812 segments
+RankCouples     : 20477 couples ok
+EdbLinking::CorrectAngles: using 10711 segments dx1,dy1:( -0.003  0.062 )  dx2,dy2:(  0.007  0.075 )
+EdbLinking::CorrectAngles: arrays with 17701 and 40812 segments
+RankCouples     : 21155 couples ok
+EdbLinking::CorrectAngles: using 12700 segments dx1,dy1:(  0.001 -0.031 )  dx2,dy2:( -0.004 -0.039 )
+EdbLinking::CorrectShrinkage: side1: 0.796425 (0.777000)   side2: 0.814444 (0.780867)
+EdbLinking::CorrectShrinkage: side1: 0.816336 (0.796425)   side2: 0.820145 (0.814444)
+EdbLinking::CorrectShrinkage: side1: 0.807356 (0.816336)   side2: 0.825886 (0.820145)
+EdbLinking::CorrectAngles: arrays with 17701 and 40812 segments
+RankCouples     : 21323 couples ok
+EdbLinking::CorrectAngles: using 12983 segments dx1,dy1:( -0.001  0.017 )  dx2,dy2:(  0.001  0.020 )
+EdbLinking::CorrectAngles: arrays with 17701 and 40812 segments
+RankCouples     : 21428 couples ok
+EdbLinking::CorrectAngles: using 13033 segments dx1,dy1:(  0.000 -0.010 )  dx2,dy2:( -0.000 -0.012 )
+EdbSEQ::EqualizeMT: selected 100.0% (17701 of 17701) segments in area of     0.2 cm²
+EdbSEQ::EqualizeMT: selected 100.0% (40812 of 40812) segments in area of     0.2 cm²
+EdbLinking::FullLinking: arrays with 17701 and 40812 segments and z1 = 87.500000  z2 = -87.500000
+EdbLinking::FullLinking: segments z1 = 87.500000  z2 = -87.500000
+RankCouples     : 27252 couples ok
+Linking Report  : Save to file ../b000051/p032/51.32.16.18.cp.root
+Shrinkage corr: : Shrinkage side1 is  0.807 with peak of   7074/  38.6      side2 is  0.826 with peak of  6922/  38.6 
+UpdatePar       : ../b000051/p032/51.32.16.18.par 
+UpdatePar       : ../b000051/p032/51.32.16.18.par 
+EdbScanProc::LinkRunTest ** processing cell 15 17
+LinkRunTest     : cell layout, 18 x cells from 5000.000000 to 185000.000000, 18 y cells from 5000.000000 to 185000.000000
+OBJ: TCut		TMath::Abs(eXview-160000.000000) < 6250.000000 && TMath::Abs(eYview-180000.000000) < 6250.000000
+EdbScanProc::LinkRunTest ** AFID=1
+EdbRunAccess::FillVP: Get data from ../b000051/p031/51.31.16.18.raw.root with AFID=1
+EdbRunAccess::FillVP:  666 entries in limits X=(154288.843750 : 165839.328125) Y=(173818.296875 178338.109375)
+
+EdbRunAccess::GuessNviewsPerArea: WARNING: eNviewsPerArea*eNareas*2 != nviews: 463*156*2 != 144460
+EdbRunAccess::InitRun: ../b000051/p031/51.31.16.18.raw.root AFID=1
+InitRunAccess   :  ../b000051/p031/51.31.16.18.raw.root with 144460 views
+EdbRunAccess::GetPatternDataForPrediction: 184 views are selected for side 2
+GetPatternDataForPrediction: 221667 segments for pred -1, side 2 from ../b000051/p031/51.31.16.18.raw.root
+EdbRunAccess::GetPatternDataForPrediction: 482 views are selected for side 1
+GetPatternDataForPrediction: 96306 segments for pred -1, side 1 from ../b000051/p031/51.31.16.18.raw.root
+EdbRunAccess::CheckUpDownOffsets: Warning: different number of views: 482 -up,  184 - down
+EdbRunAccess::CheckUpDownOffsets: WARNING!!! XY stage possible malfunction (rms>0.5 micron) rmsX =  0.5746  rmsY =  0.2546 (by 184 views)
+EdbRunAccess::CheckViewSize:  side1    X:[-249.500000 249.500000]   Y:[-249.500000 249.500000]
+EdbRunAccess::CheckViewSize:  side2    X:[-249.500000 249.500000]   Y:[-249.500000 249.500000]
+EdbLinking::Link: patterns with 96306 and 221667 segments and z1 = 87.500000  z2 = -87.500000
+EdbLinking::Link: segments z1 = 87.500000  z2 = -87.500000
+EdbScanCond::DefineLLFunction: 0.256336-0.16489*x+2.11098*x*x
+ThetaLimits: 0.050000 1.000000
+EdbLinking::Link: after preselection: n1pre = 49440  n2pre = 167615
+DubletsFilterOut: miss: 28195 wrong: 15
+DubletsFilterOut: 5539 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.10000 0.10000) checkview =1
+DubletsFilterOut: miss: 54090 wrong: 35
+DubletsFilterOut: 19442 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.10000 0.10000) checkview =1
+EdbSEQ::EqualizeMT: selected 100.0% (49440 of 49440) segments in area of     0.6 cm²
+EdbSEQ::EqualizeMT: selected 100.0% (167615 of 167615) segments in area of     0.8 cm²
+EdbLinking::Link: A n1shr = 49440  n2shr = 167615
+EdbLinking::CorrectShrinkage: side1: 0.641667 (0.700000)   side2: 0.805000 (0.700000)
+EdbLinking::CorrectShrinkage: side1: 0.819133 (0.641667)   side2: 0.784760 (0.805000)
+EdbLinking::CorrectAngles: arrays with 49440 and 167615 segments
+RankCouples     : 46924 couples ok
+EdbLinking::CorrectAngles: using 22176 segments dx1,dy1:( -0.003  0.038 )  dx2,dy2:(  0.012  0.087 )
+EdbLinking::CorrectAngles: arrays with 49440 and 167615 segments
+RankCouples     : 48747 couples ok
+EdbLinking::CorrectAngles: using 25526 segments dx1,dy1:(  0.003 -0.016 )  dx2,dy2:( -0.006 -0.044 )
+EdbLinking::CorrectShrinkage: side1: 0.839612 (0.819133)   side2: 0.790253 (0.784760)
+EdbLinking::CorrectShrinkage: side1: 0.845489 (0.839612)   side2: 0.795785 (0.790253)
+EdbLinking::CorrectShrinkage: side1: 0.851407 (0.845489)   side2: 0.801356 (0.795785)
+EdbLinking::CorrectAngles: arrays with 49440 and 167615 segments
+RankCouples     : 49524 couples ok
+EdbLinking::CorrectAngles: using 26338 segments dx1,dy1:( -0.002  0.006 )  dx2,dy2:(  0.003  0.023 )
+EdbLinking::CorrectAngles: arrays with 49440 and 167615 segments
+RankCouples     : 49650 couples ok
+EdbLinking::CorrectAngles: using 26307 segments dx1,dy1:(  0.001 -0.002 )  dx2,dy2:( -0.002 -0.013 )
+EdbSEQ::EqualizeMT: selected 100.0% (49440 of 49440) segments in area of     0.6 cm²
+EdbSEQ::EqualizeMT: selected 100.0% (167615 of 167615) segments in area of     0.8 cm²
+EdbLinking::FullLinking: arrays with 49440 and 167615 segments and z1 = 87.500000  z2 = -87.500000
+EdbLinking::FullLinking: segments z1 = 87.500000  z2 = -87.500000
+RankCouples     : 69479 couples ok
+Linking Report  : Save to file ../b000051/p031/51.31.16.18.cp.root
+Shrinkage corr: : Shrinkage side1 is  0.851 with peak of  11638/  81.2      side2 is  0.801 with peak of 10702/  77.7 
+UpdatePar       : ../b000051/p031/51.31.16.18.par 
+UpdatePar       : ../b000051/p031/51.31.16.18.par 
+EdbScanProc::LinkRunTest ** processing cell 15 17
+LinkRunTest     : cell layout, 18 x cells from 5000.000000 to 185000.000000, 18 y cells from 5000.000000 to 185000.000000
+OBJ: TCut		TMath::Abs(eXview-160000.000000) < 6250.000000 && TMath::Abs(eYview-180000.000000) < 6250.000000
+EdbScanProc::LinkRunTest ** AFID=1
+EdbRunAccess::FillVP: Get data from ../b000051/p030/51.30.16.18.raw.root with AFID=1
+EdbRunAccess::FillVP:  565 entries in limits X=(154288.312500 : 165839.890625) Y=(173817.093750 181727.250000)
+
+EdbRunAccess::GuessNviewsPerArea: WARNING: eNviewsPerArea*eNareas*2 != nviews: 464*158*2 != 146790
+EdbRunAccess::InitRun: ../b000051/p030/51.30.16.18.raw.root AFID=1
+InitRunAccess   :  ../b000051/p030/51.30.16.18.raw.root with 146790 views
+EdbRunAccess::GetPatternDataForPrediction: 371 views are selected for side 2
+GetPatternDataForPrediction: 47471 segments for pred -1, side 2 from ../b000051/p030/51.30.16.18.raw.root
+EdbRunAccess::GetPatternDataForPrediction: 194 views are selected for side 1
+GetPatternDataForPrediction: 187581 segments for pred -1, side 1 from ../b000051/p030/51.30.16.18.raw.root
+EdbRunAccess::CheckUpDownOffsets: Warning: different number of views: 194 -up,  371 - down
+EdbRunAccess::CheckUpDownOffsets: rmsX =  0.0000  rmsY =  0.0000 (by 194 views)
+EdbRunAccess::CheckViewSize:  side1    X:[-249.500000 249.500000]   Y:[-249.500000 249.500000]
+EdbRunAccess::CheckViewSize:  side2    X:[-249.500000 249.500000]   Y:[-249.500000 249.500000]
+EdbLinking::Link: patterns with 187581 and 47471 segments and z1 = 87.500000  z2 = -87.500000
+EdbLinking::Link: segments z1 = 87.500000  z2 = -87.500000
+EdbScanCond::DefineLLFunction: 0.256336-0.16489*x+2.11098*x*x
+ThetaLimits: 0.050000 1.000000
+EdbLinking::Link: after preselection: n1pre = 102778  n2pre = 27884
+DubletsFilterOut: miss: 56982 wrong: 32
+DubletsFilterOut: 9110 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.10000 0.10000) checkview =1
+DubletsFilterOut: miss: 3546 wrong: 0
+DubletsFilterOut: 1715 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.10000 0.10000) checkview =1
+EdbSEQ::EqualizeMT: selected 100.0% (102778 of 102778) segments in area of     1.1 cm²
+EdbSEQ::EqualizeMT: selected 100.0% (27884 of 27884) segments in area of     1.5 cm²
+EdbLinking::Link: A n1shr = 102778  n2shr = 27884
+EdbLinking::CorrectShrinkage: side1: 0.758333 (0.700000)   side2: 0.758333 (0.700000)
+EdbLinking::CorrectShrinkage: side1: 0.801667 (0.758333)   side2: 0.760067 (0.758333)
+EdbLinking::CorrectAngles: arrays with 102778 and 27884 segments
+RankCouples     : 17253 couples ok
+EdbLinking::CorrectAngles: using 9074 segments dx1,dy1:( -0.009  0.051 )  dx2,dy2:(  0.007  0.079 )
+EdbLinking::CorrectAngles: arrays with 102778 and 27884 segments
+RankCouples     : 17981 couples ok
+EdbLinking::CorrectAngles: using 10714 segments dx1,dy1:(  0.004 -0.025 )  dx2,dy2:( -0.005 -0.043 )
+EdbLinking::CorrectShrinkage: side1: 0.821708 (0.801667)   side2: 0.779068 (0.760067)
+EdbLinking::CorrectShrinkage: side1: 0.842251 (0.821708)   side2: 0.784522 (0.779068)
+EdbLinking::CorrectShrinkage: side1: 0.832986 (0.842251)   side2: 0.804135 (0.784522)
+EdbLinking::CorrectAngles: arrays with 102778 and 27884 segments
+RankCouples     : 18028 couples ok
+EdbLinking::CorrectAngles: using 10956 segments dx1,dy1:( -0.003  0.012 )  dx2,dy2:(  0.002  0.022 )
+EdbLinking::CorrectAngles: arrays with 102778 and 27884 segments
+RankCouples     : 18191 couples ok
+EdbLinking::CorrectAngles: using 11027 segments dx1,dy1:(  0.001 -0.007 )  dx2,dy2:( -0.001 -0.014 )
+EdbSEQ::EqualizeMT: selected 100.0% (102778 of 102778) segments in area of     1.1 cm²
+EdbSEQ::EqualizeMT: selected 100.0% (27884 of 27884) segments in area of     1.5 cm²
+EdbLinking::FullLinking: arrays with 102778 and 27884 segments and z1 = 87.500000  z2 = -87.500000
+EdbLinking::FullLinking: segments z1 = 87.500000  z2 = -87.500000
+RankCouples     : 23341 couples ok
+Linking Report  : Save to file ../b000051/p030/51.30.16.18.cp.root
+Shrinkage corr: : Shrinkage side1 is  0.833 with peak of   4091/  32.2      side2 is  0.804 with peak of  4033/  31.5 
+UpdatePar       : ../b000051/p030/51.30.16.18.par 
+UpdatePar       : ../b000051/p030/51.30.16.18.par 
+ReadScanSet     : from ../b000051/b000051.0.16.18.set.root
+Starting true linking
+makescanset     :  for id 000051.0.16.18
+EdbScanSet::MakeNominalSet: 000051.0.16.18
+ReadScanSet     : from ../b000051/b000051.0.16.18.set.root
+ReadScanSet     : from ../b000051/b000051.0.16.18.set.root
+ReadScanSet     : from ../b000051/b000051.0.16.18.set.root
+ReadScanSet     : from ../b000051/b000051.0.16.18.set.root
+EdbScanSet: 000051.0.16.18
+Brick 51 with 3 plates:
+ 32          0.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+ 31      -1300.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+ 30      -2600.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+for this brick 3 identifiers are defined:
+000051.32.16.18  shr1/base/shr2 = 0.826 / 175.0 / 0.807
+000051.31.16.18  shr1/base/shr2 = 0.801 / 175.0 / 0.851
+000051.30.16.18  shr1/base/shr2 = 0.804 / 175.0 / 0.833
+
+----------------------------------------------------------------------------
+link set with id= 51.0.16.18
+----------------------------------------------------------------------------
+
+ReadScanSet     : from ../b000051/b000051.0.16.18.set.root
+EdbScanProc::LinkRunTest ** processing cell 15 17
+LinkRunTest     : cell layout, 18 x cells from 5000.000000 to 185000.000000, 18 y cells from 5000.000000 to 185000.000000
+OBJ: TCut		TMath::Abs(eXview-160000.000000) < 6250.000000 && TMath::Abs(eYview-180000.000000) < 6250.000000
+EdbScanProc::LinkRunTest ** AFID=1
+EdbRunAccess::FillVP: Get data from ../b000051/p032/51.32.16.18.raw.root with AFID=1
+EdbRunAccess::FillVP:  96 entries in limits X=(154289.250000 : 165840.968750) Y=(173817.937500 174948.453125)
+
+EdbRunAccess::InitRun: ../b000051/p032/51.32.16.18.raw.root AFID=1
+InitRunAccess   :  ../b000051/p032/51.32.16.18.raw.root with 140732 views
+EdbRunAccess::GetPatternDataForPrediction: 48 views are selected for side 2
+GetPatternDataForPrediction: 70430 segments for pred -1, side 2 from ../b000051/p032/51.32.16.18.raw.root
+EdbRunAccess::GetPatternDataForPrediction: 48 views are selected for side 1
+GetPatternDataForPrediction: 38301 segments for pred -1, side 1 from ../b000051/p032/51.32.16.18.raw.root
+EdbRunAccess::CheckUpDownOffsets: WARNING!!! XY stage possible malfunction (rms>0.5 micron) rmsX =  1.4234  rmsY =  0.8661 (by 48 views)
+EdbRunAccess::CheckViewSize:  side1    X:[-249.500000 249.500000]   Y:[-249.500000 249.500000]
+EdbRunAccess::CheckViewSize:  side2    X:[-249.500000 249.500000]   Y:[-249.500000 249.500000]
+EdbLinking::Link: patterns with 38301 and 70430 segments and z1 = 87.500000  z2 = -87.500000
+EdbLinking::Link: segments z1 = 87.500000  z2 = -87.500000
+EdbScanCond::DefineLLFunction: 0.256336-0.16489*x+2.11098*x*x
+ThetaLimits: 0.000000 1.000000
+EdbLinking::Link: after preselection: n1pre = 36780  n2pre = 65986
+DubletsFilterOut: miss: 11024 wrong: 2
+DubletsFilterOut: 1024 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.10000 0.10000) checkview =1
+DubletsFilterOut: miss: 21366 wrong: 22
+DubletsFilterOut: 8821 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.10000 0.10000) checkview =1
+EdbSEQ::EqualizeMT: selected 100.0% (36780 of 36780) segments in area of     0.2 cm²
+EdbSEQ::EqualizeMT: selected 100.0% (65986 of 65986) segments in area of     0.2 cm²
+EdbLinking::FullLinking: arrays with 36780 and 65986 segments and z1 = 87.500000  z2 = -87.500000
+EdbLinking::FullLinking: segments z1 = 87.500000  z2 = -87.500000
+RankCouples     : 49595 couples ok
+EdbCouplesTree::InitCouplesTree: create new tree couples in (null)
+EdbLinking::SaveCouplesTree: 49595 couples are stored into ../b000051/p032/51.32.16.18.cp.root
+Linking Report  : Save to file ../b000051/p032/51.32.16.18.cp.root
+EdbScanProc::LinkRunTest ** processing cell 15 17
+LinkRunTest     : cell layout, 18 x cells from 5000.000000 to 185000.000000, 18 y cells from 5000.000000 to 185000.000000
+OBJ: TCut		TMath::Abs(eXview-160000.000000) < 6250.000000 && TMath::Abs(eYview-180000.000000) < 6250.000000
+EdbScanProc::LinkRunTest ** AFID=1
+EdbRunAccess::FillVP: Get data from ../b000051/p031/51.31.16.18.raw.root with AFID=1
+EdbRunAccess::FillVP:  666 entries in limits X=(154288.843750 : 165839.328125) Y=(173818.296875 178338.109375)
+
+EdbRunAccess::GuessNviewsPerArea: WARNING: eNviewsPerArea*eNareas*2 != nviews: 463*156*2 != 144460
+EdbRunAccess::InitRun: ../b000051/p031/51.31.16.18.raw.root AFID=1
+InitRunAccess   :  ../b000051/p031/51.31.16.18.raw.root with 144460 views
+EdbRunAccess::GetPatternDataForPrediction: 184 views are selected for side 2
+GetPatternDataForPrediction: 221667 segments for pred -1, side 2 from ../b000051/p031/51.31.16.18.raw.root
+EdbRunAccess::GetPatternDataForPrediction: 482 views are selected for side 1
+GetPatternDataForPrediction: 96306 segments for pred -1, side 1 from ../b000051/p031/51.31.16.18.raw.root
+EdbRunAccess::CheckUpDownOffsets: Warning: different number of views: 482 -up,  184 - down
+EdbRunAccess::CheckUpDownOffsets: WARNING!!! XY stage possible malfunction (rms>0.5 micron) rmsX =  0.5746  rmsY =  0.2546 (by 184 views)
+EdbRunAccess::CheckViewSize:  side1    X:[-249.500000 249.500000]   Y:[-249.500000 249.500000]
+EdbRunAccess::CheckViewSize:  side2    X:[-249.500000 249.500000]   Y:[-249.500000 249.500000]
+EdbLinking::Link: patterns with 96306 and 221667 segments and z1 = 87.500000  z2 = -87.500000
+EdbLinking::Link: segments z1 = 87.500000  z2 = -87.500000
+EdbScanCond::DefineLLFunction: 0.256336-0.16489*x+2.11098*x*x
+ThetaLimits: 0.000000 1.000000
+EdbLinking::Link: after preselection: n1pre = 91067  n2pre = 204921
+DubletsFilterOut: miss: 34330 wrong: 33
+DubletsFilterOut: 11287 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.10000 0.10000) checkview =1
+DubletsFilterOut: miss: 50809 wrong: 68
+DubletsFilterOut: 27110 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.10000 0.10000) checkview =1
+EdbSEQ::EqualizeMT: selected 100.0% (91067 of 91067) segments in area of     0.6 cm²
+EdbSEQ::EqualizeMT: selected 100.0% (204921 of 204921) segments in area of     0.8 cm²
+EdbLinking::FullLinking: arrays with 91067 and 204921 segments and z1 = 87.500000  z2 = -87.500000
+EdbLinking::FullLinking: segments z1 = 87.500000  z2 = -87.500000
+RankCouples     : 92594 couples ok
+EdbCouplesTree::InitCouplesTree: create new tree couples in (null)
+EdbLinking::SaveCouplesTree: 92594 couples are stored into ../b000051/p031/51.31.16.18.cp.root
+Linking Report  : Save to file ../b000051/p031/51.31.16.18.cp.root
+EdbScanProc::LinkRunTest ** processing cell 15 17
+LinkRunTest     : cell layout, 18 x cells from 5000.000000 to 185000.000000, 18 y cells from 5000.000000 to 185000.000000
+OBJ: TCut		TMath::Abs(eXview-160000.000000) < 6250.000000 && TMath::Abs(eYview-180000.000000) < 6250.000000
+EdbScanProc::LinkRunTest ** AFID=1
+EdbRunAccess::FillVP: Get data from ../b000051/p030/51.30.16.18.raw.root with AFID=1
+EdbRunAccess::FillVP:  565 entries in limits X=(154288.312500 : 165839.890625) Y=(173817.093750 181727.250000)
+
+EdbRunAccess::GuessNviewsPerArea: WARNING: eNviewsPerArea*eNareas*2 != nviews: 464*158*2 != 146790
+EdbRunAccess::InitRun: ../b000051/p030/51.30.16.18.raw.root AFID=1
+InitRunAccess   :  ../b000051/p030/51.30.16.18.raw.root with 146790 views
+EdbRunAccess::GetPatternDataForPrediction: 371 views are selected for side 2
+GetPatternDataForPrediction: 47471 segments for pred -1, side 2 from ../b000051/p030/51.30.16.18.raw.root
+EdbRunAccess::GetPatternDataForPrediction: 194 views are selected for side 1
+GetPatternDataForPrediction: 187581 segments for pred -1, side 1 from ../b000051/p030/51.30.16.18.raw.root
+EdbRunAccess::CheckUpDownOffsets: Warning: different number of views: 194 -up,  371 - down
+EdbRunAccess::CheckUpDownOffsets: rmsX =  0.0000  rmsY =  0.0000 (by 194 views)
+EdbRunAccess::CheckViewSize:  side1    X:[-249.500000 249.500000]   Y:[-249.500000 249.500000]
+EdbRunAccess::CheckViewSize:  side2    X:[-249.500000 249.500000]   Y:[-249.500000 249.500000]
+EdbLinking::Link: patterns with 187581 and 47471 segments and z1 = 87.500000  z2 = -87.500000
+EdbLinking::Link: segments z1 = 87.500000  z2 = -87.500000
+EdbScanCond::DefineLLFunction: 0.256336-0.16489*x+2.11098*x*x
+ThetaLimits: 0.000000 1.000000
+EdbLinking::Link: after preselection: n1pre = 175554  n2pre = 43004
+DubletsFilterOut: miss: 63335 wrong: 48
+DubletsFilterOut: 19963 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.10000 0.10000) checkview =1
+DubletsFilterOut: miss: 3236 wrong: 1
+DubletsFilterOut: 3760 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.10000 0.10000) checkview =1
+EdbSEQ::EqualizeMT: selected 100.0% (175554 of 175554) segments in area of     1.1 cm²
+EdbSEQ::EqualizeMT: selected 100.0% (43004 of 43004) segments in area of     1.5 cm²
+EdbLinking::FullLinking: arrays with 175554 and 43004 segments and z1 = 87.500000  z2 = -87.500000
+EdbLinking::FullLinking: segments z1 = 87.500000  z2 = -87.500000
+RankCouples     : 35381 couples ok
+EdbCouplesTree::InitCouplesTree: create new tree couples in (null)
+EdbLinking::SaveCouplesTree: 35381 couples are stored into ../b000051/p030/51.30.16.18.cp.root
+Linking Report  : Save to file ../b000051/p030/51.30.16.18.cp.root
+ReadScanSet     : from ../b000051/b000051.0.16.18.set.root

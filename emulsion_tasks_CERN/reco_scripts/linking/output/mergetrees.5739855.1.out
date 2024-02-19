@@ -1,0 +1,16 @@
+Set up SND environment
+search libraries in slc9_x86-64
+merge cells for plate,
+Load FEDRA libs
+
+Processing /afs/cern.ch/user/o/onur/emulsion_tasks2/reco_scripts/linking/merge_couplestrees.C("/eos/experiment/sndlhc/emulsionData/2022/CERN/emu_reco/RUN3/",51,31)...
+Selecting cell 88 from file /eos/experiment/sndlhc/emulsionData/2022/CERN/emu_reco/RUN3//b000051/p031/51.31.9.9.cp.root
+Selected cell 88 before 665808 now 229296
+Selecting cell 89 from file /eos/experiment/sndlhc/emulsionData/2022/CERN/emu_reco/RUN3//b000051/p031/51.31.9.10.cp.root
+Selected cell 89 before 648796 now 225171
+Selecting cell 98 from file /eos/experiment/sndlhc/emulsionData/2022/CERN/emu_reco/RUN3//b000051/p031/51.31.10.9.cp.root
+Selected cell 98 before 649586 now 227282
+Selecting cell 99 from file /eos/experiment/sndlhc/emulsionData/2022/CERN/emu_reco/RUN3//b000051/p031/51.31.10.10.cp.root
+Selected cell 99 before 637669 now 218426
+Start time: 225227
+End time: 225354

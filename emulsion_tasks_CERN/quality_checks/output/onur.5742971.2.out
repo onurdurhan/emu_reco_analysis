@@ -1,0 +1,18 @@
+Set up SND environment
+search libraries in slc9_x86-64
+Load FEDRA libs
+
+Attaching file /eos/experiment/sndlhc/emulsionData/2022/CERN/SND_mic2/RUN3/RUN3_W5_B1/P060/tracks.raw.root as _file0...
+(TFile *) 0x698de80
+Processing /afs/cern.ch/user/o/onur/emulsion_tasks2/quality_checks/check_raw.C(1)...
+Red  line: Top    side
+Blue line: Bottom side
+something elseThe script is initializedsave as gif pictures
+Finished tasksLoad FEDRA libs
+
+Attaching file /eos/experiment/sndlhc/emulsionData/2022/CERN/SND_mic2/RUN3/RUN3_W5_B1/P060/tracks.raw.root as _file0...
+(TFile *) 0x5440cf0
+Processing /afs/cern.ch/user/o/onur/emulsion_tasks2/quality_checks/thickness.C...
+
+ 300 
+Finished task

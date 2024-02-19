@@ -1,0 +1,347 @@
+Set up SND environment
+search libraries in slc9_x86-64
+do alignment
+makescanset     :  for id 000051.0.0.0
+EdbScanSet::MakeNominalSet: 000051.0.0.0
+EdbScanProc::CheckDir: create directory ../b000051/AFF
+MakeAFFSet      : ../b000051/AFF/51.33.0.0_51.32.0.0.aff.par as ZLAYER 0 -1350.000000 0 0
+MakeAFFSet      : ../b000051/AFF/51.33.0.0_51.32.0.0.aff.par as AFFXY 0 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000
+MakeAFFSet      : ../b000051/AFF/51.32.0.0_51.31.0.0.aff.par as ZLAYER 0 -1350.000000 0 0
+MakeAFFSet      : ../b000051/AFF/51.32.0.0_51.31.0.0.aff.par as AFFXY 0 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000
+MakeAFFSet      : ../b000051/AFF/51.31.0.0_51.30.0.0.aff.par as ZLAYER 0 -1350.000000 0 0
+MakeAFFSet      : ../b000051/AFF/51.31.0.0_51.30.0.0.aff.par as AFFXY 0 1.000000 0.000000 0.000000 1.000000 0.000000 0.000000
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+EdbScanSet: 000051.0.0.0
+Brick 51 with 4 plates:
+ 33          0.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+ 32      -1350.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+ 31      -2700.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+ 30      -4050.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+for this brick 4 identifiers are defined:
+000051.33.0.0  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+000051.32.0.0  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+000051.31.0.0  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+000051.30.0.0  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+Starting first align
+
+----------------------------------------------------------------------------
+align set 51.0.0.0
+----------------------------------------------------------------------------
+
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+EdbCouplesTree::GetCPData: select 10437 of 908420 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1&&s.Theta()>0.09&&s.Theta()<0.1&&TMath::Abs(s.eX-95000)<10000 && TMath::Abs(s.eY-95000) < 10000 ; 0 are erased by mask
+EdbCouplesTree::GetCPData: select 10483 of 926025 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1&&s.Theta()>0.09&&s.Theta()<0.1&&TMath::Abs(s.eX-95000)<10000 && TMath::Abs(s.eY-95000) < 10000 ; 0 are erased by mask
+EdbAffine2D:   1.000000  0.000000  0.000000  1.000000     0.000000     0.000000
+EdbPlateAlignment::Align: pattern 1 with 10437 in limits x:(    85001.19    104999.67) y:(    85004.58    104999.77)
+EdbPlateAlignment::Align: pattern 2 with 10483 in limits x:(    85001.25    104999.05) y:(    85005.37    104999.41)
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 0 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 2 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+CoarseAl        : DVsame: 4000.00 4000.00  0.12000  0.12000
+CoarseAl        : 124686 coins with peak of 16348/9184.816 with offsets (dx:dy:dz:dphi): -957.87  962.16 -1350.00   0.014  with patterns of: 10437 10483
+FineAl          : peak of 56445 with offsets (dx:dy:dz:dphi): -963.68  974.46 -1350.00   0.014  with patterns of: 10437 10483
+FineAl          : peak of 56575 with offsets (dx:dy:dz:dphi): -969.19  985.37 -1350.00   0.014  with patterns of: 10437 10483
+FineAl          : peak of 56735 with offsets (dx:dy:dz:dphi): -973.91  994.96 -1350.00   0.014  with patterns of: 10437 10483
+FineAl          : peak of 56879 with offsets (dx:dy:dz:dphi): -978.00 1003.67 -1350.00   0.014  with patterns of: 10437 10483
+FineAl          : peak of 56928 with offsets (dx:dy:dz:dphi): -981.49 1011.79 -1350.00   0.014  with patterns of: 10437 10483
+FineAlAff       : peak of 57916  with patterns of: 10437 10483
+FineAlAff       : peak of 58004  with patterns of: 10437 10483
+FineAlAff       : peak of 58020  with patterns of: 10437 10483
+FineAlAff       : peak of 58074  with patterns of: 10437 10483
+FineAlAff       : peak of 58140  with patterns of: 10437 10483
+Alignment Report: Coarse OK: 124686 coins with peak of 16348/9184.816
+Alignment Report: Fine   OK: 58134 coins inside ( 640.0  640.0) with angular acc: ( 0.120  0.120)
+Alignment Report: Save to file ../b000051/AFF/51.33.0.0_51.32.0.0.al.root
+Alignment Report: Nfinal= 58140    Peak: 16348/9184.816    dx,dy,dz = -1007.516  1005.961 -1350.000
+Alignment Report: xmax-xmin: 21161.703125 (104999.046875-83837.343750) ymax-ymin: 21205.734375 (106211.101562-85005.367188)
+EdbCouplesTree::InitCouplesTree: create new tree couples in (null)
+UpdateAFFPar    : ../b000051/AFF/51.33.0.0_51.32.0.0.aff.par 
+EdbCouplesTree::GetCPData: select 10483 of 926025 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1&&s.Theta()>0.09&&s.Theta()<0.1&&TMath::Abs(s.eX-95000)<10000 && TMath::Abs(s.eY-95000) < 10000 ; 0 are erased by mask
+EdbCouplesTree::GetCPData: select 10343 of 900175 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1&&s.Theta()>0.09&&s.Theta()<0.1&&TMath::Abs(s.eX-95000)<10000 && TMath::Abs(s.eY-95000) < 10000 ; 0 are erased by mask
+EdbAffine2D:   1.000000  0.000000  0.000000  1.000000     0.000000     0.000000
+EdbPlateAlignment::Align: pattern 1 with 10483 in limits x:(    85001.25    104999.05) y:(    85005.37    104999.41)
+EdbPlateAlignment::Align: pattern 2 with 10343 in limits x:(    85000.58    104998.81) y:(    85000.38    104994.93)
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 2 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 2 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+CoarseAl        : DVsame: 4000.00 4000.00  0.12000  0.12000
+CoarseAl        : 123228 coins with peak of 16346/9064.186 with offsets (dx:dy:dz:dphi):  953.51 -957.14 -1350.00   0.000  with patterns of: 10483 10343
+FineAl          : peak of 56341 with offsets (dx:dy:dz:dphi):  943.98 -955.81 -1350.00   0.000  with patterns of: 10483 10343
+FineAl          : peak of 56493 with offsets (dx:dy:dz:dphi):  935.29 -954.73 -1350.00   0.000  with patterns of: 10483 10343
+FineAl          : peak of 56692 with offsets (dx:dy:dz:dphi):  927.38 -954.22 -1350.00   0.000  with patterns of: 10483 10343
+FineAl          : peak of 56793 with offsets (dx:dy:dz:dphi):  920.48 -953.69 -1350.00   0.000  with patterns of: 10483 10343
+FineAl          : peak of 56845 with offsets (dx:dy:dz:dphi):  914.16 -952.87 -1350.00   0.000  with patterns of: 10483 10343
+FineAlAff       : peak of 57455  with patterns of: 10483 10343
+FineAlAff       : peak of 57513  with patterns of: 10483 10343
+FineAlAff       : peak of 57629  with patterns of: 10483 10343
+FineAlAff       : peak of 57696  with patterns of: 10483 10343
+FineAlAff       : peak of 57754  with patterns of: 10483 10343
+Alignment Report: Coarse OK: 123228 coins with peak of 16346/9064.186
+Alignment Report: Fine   OK: 57751 coins inside ( 640.0  640.0) with angular acc: ( 0.120  0.120)
+Alignment Report: Save to file ../b000051/AFF/51.32.0.0_51.31.0.0.al.root
+Alignment Report: Nfinal= 57754    Peak: 16346/9064.186    dx,dy,dz = 896.633  -950.461 -1350.000
+Alignment Report: xmax-xmin: 20977.617188 (105978.195312-85000.578125) ymax-ymin: 21030.726562 (104994.929688-83964.203125)
+EdbCouplesTree::InitCouplesTree: create new tree couples in (null)
+UpdateAFFPar    : ../b000051/AFF/51.32.0.0_51.31.0.0.aff.par 
+EdbCouplesTree::GetCPData: select 10343 of 900175 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1&&s.Theta()>0.09&&s.Theta()<0.1&&TMath::Abs(s.eX-95000)<10000 && TMath::Abs(s.eY-95000) < 10000 ; 0 are erased by mask
+EdbCouplesTree::GetCPData: select 8630 of 755915 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1&&s.Theta()>0.09&&s.Theta()<0.1&&TMath::Abs(s.eX-95000)<10000 && TMath::Abs(s.eY-95000) < 10000 ; 0 are erased by mask
+EdbAffine2D:   1.000000  0.000000  0.000000  1.000000     0.000000     0.000000
+EdbPlateAlignment::Align: pattern 1 with 10343 in limits x:(    85000.58    104998.81) y:(    85000.38    104994.93)
+EdbPlateAlignment::Align: pattern 2 with 8630 in limits x:(    85002.59    104998.70) y:(    85003.55    104999.05)
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 2 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 0 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+CoarseAl        : DVsame: 4000.00 4000.00  0.12000  0.12000
+CoarseAl        : 104633 coins with peak of 14060/8123.526 with offsets (dx:dy:dz:dphi): -955.02  317.27 -1350.00   0.008  with patterns of: 10343 8630
+FineAl          : peak of 48422 with offsets (dx:dy:dz:dphi): -949.73  315.16 -1350.00   0.008  with patterns of: 10343 8630
+FineAl          : peak of 48497 with offsets (dx:dy:dz:dphi): -944.82  313.26 -1350.00   0.008  with patterns of: 10343 8630
+FineAl          : peak of 48537 with offsets (dx:dy:dz:dphi): -940.74  311.36 -1350.00   0.008  with patterns of: 10343 8630
+FineAl          : peak of 48652 with offsets (dx:dy:dz:dphi): -937.23  310.02 -1350.00   0.008  with patterns of: 10343 8630
+FineAl          : peak of 48667 with offsets (dx:dy:dz:dphi): -933.85  308.68 -1350.00   0.008  with patterns of: 10343 8630
+FineAlAff       : peak of 49019  with patterns of: 10343 8630
+FineAlAff       : peak of 49000  with patterns of: 10343 8630
+FineAlAff       : peak of 49035  with patterns of: 10343 8630
+FineAlAff       : peak of 49084  with patterns of: 10343 8630
+FineAlAff       : peak of 49106  with patterns of: 10343 8630
+Alignment Report: Coarse OK: 104633 coins with peak of 14060/8123.526
+Alignment Report: Fine   OK: 49101 coins inside ( 640.0  640.0) with angular acc: ( 0.120  0.120)
+Alignment Report: Save to file ../b000051/AFF/51.31.0.0_51.30.0.0.al.root
+Alignment Report: Nfinal= 49106    Peak: 14060/8123.526    dx,dy,dz = -929.500  291.586 -1350.000
+Alignment Report: xmax-xmin: 21097.828125 (104998.695312-83900.867188) ymax-ymin: 20454.375000 (105457.929688-85003.554688)
+EdbCouplesTree::InitCouplesTree: create new tree couples in (null)
+UpdateAFFPar    : ../b000051/AFF/51.31.0.0_51.30.0.0.aff.par 
+MakeAlignSetSummary: ../b000051/b000051.0.0.0.align.ps
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+UpdateAlignSummaryTree: peak:   16348/13542.25/9184.816   dx,dy,dz: -1007.516 1005.961 -1350.000  for 000051.33.0.0_000051.32.0.0
+UpdateAlignSummaryTree: peak:   16346/13360.25/9064.186   dx,dy,dz: 896.633 -950.461 -1350.000  for 000051.32.0.0_000051.31.0.0
+UpdateAlignSummaryTree: peak:   14060/11321.62/8123.526   dx,dy,dz: -929.500 291.586 -1350.000  for 000051.31.0.0_000051.30.0.0
+makescanset     :  for id 000051.0.0.0
+EdbScanSet::MakeNominalSet: 000051.0.0.0
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+EdbScanSet: 000051.0.0.0
+Brick 51 with 4 plates:
+ 33          0.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+ 32      -1350.00        1.002217  0.013009 -0.014111  1.001669     -456.495453      150.880432
+ 31      -2700.00        1.004882  0.010616 -0.011659  1.006156    -1380.988403      443.133545
+ 30      -4050.00        1.005781  0.016731 -0.020388  1.007567    -1119.930664      832.281250
+for this brick 4 identifiers are defined:
+000051.33.0.0  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+000051.32.0.0  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+000051.31.0.0  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+000051.30.0.0  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+Starting second align
+
+----------------------------------------------------------------------------
+align set 51.0.0.0
+----------------------------------------------------------------------------
+
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+EdbCouplesTree::GetCPData: select 31150 of 908420 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1&&s.Theta()>0.4&&s.Theta()<0.5&&TMath::Abs(s.eX-95000)<10000 && TMath::Abs(s.eY-95000) < 10000 ; 0 are erased by mask
+EdbCouplesTree::GetCPData: select 31707 of 926025 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1&&s.Theta()>0.4&&s.Theta()<0.5&&TMath::Abs(s.eX-95000)<10000 && TMath::Abs(s.eY-95000) < 10000 ; 0 are erased by mask
+EdbAffine2D:   0.997605 -0.012956  0.014054  0.998151   457.357025  -144.185989
+EdbPlateAlignment::Align: pattern 1 with 31150 in limits x:(    83912.72    104091.80) y:(    85909.32    106110.27)
+EdbPlateAlignment::Align: pattern 2 with 31707 in limits x:(    85000.31    104998.34) y:(    85000.02    104999.95)
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 2 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 4 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+CoarseAl        : DVsame: 2000.00 2000.00  0.09000  0.09000
+CoarseAl        : 21039 coins with peak of 2934/2009.587 with offsets (dx:dy:dz:dphi):   -0.46  116.40 -1263.73   0.000  with patterns of: 31150 31707
+FineAl          : peak of 9328 with offsets (dx:dy:dz:dphi):   -9.08  102.30 -1268.57   0.000  with patterns of: 31150 31707
+FineAl          : peak of 9540 with offsets (dx:dy:dz:dphi):  -14.99   91.67 -1271.05   0.000  with patterns of: 31150 31707
+FineAl          : peak of 9680 with offsets (dx:dy:dz:dphi):  -19.36   83.29 -1271.28   0.000  with patterns of: 31150 31707
+FineAl          : peak of 9805 with offsets (dx:dy:dz:dphi):  -22.46   76.86 -1270.01   0.000  with patterns of: 31150 31707
+FineAl          : peak of 9896 with offsets (dx:dy:dz:dphi):  -25.30   72.43 -1267.64   0.000  with patterns of: 31150 31707
+FineAlAff       : peak of 10165  with patterns of: 31150 31707
+FineAlAff       : peak of 10158  with patterns of: 31150 31707
+FineAlAff       : peak of 10154  with patterns of: 31150 31707
+FineAlAff       : peak of 10143  with patterns of: 31150 31707
+FineAlAff       : peak of 10140  with patterns of: 31150 31707
+Alignment Report: Coarse OK: 21039 coins with peak of 2934/2009.587
+Alignment Report: Fine   OK: 10140 coins inside ( 240.0  240.0) with angular acc: ( 0.090  0.090)
+Alignment Report: Save to file ../b000051/AFF/51.33.0.0_51.32.0.0.al.root
+Alignment Report: Nfinal= 10140    Peak:  2934/2009.587    dx,dy,dz = -31.281   65.555 -1267.641
+Alignment Report: xmax-xmin: 21649.859375 (104998.343750-83348.484375) ymax-ymin: 21723.890625 (106723.906250-85000.015625)
+EdbCouplesTree::InitCouplesTree: create new tree couples in (null)
+UpdateAFFPar    : ../b000051/AFF/51.33.0.0_51.32.0.0.aff.par 
+EdbCouplesTree::GetCPData: select 31707 of 926025 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1&&s.Theta()>0.4&&s.Theta()<0.5&&TMath::Abs(s.eX-95000)<10000 && TMath::Abs(s.eY-95000) < 10000 ; 0 are erased by mask
+EdbCouplesTree::GetCPData: select 30608 of 900175 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1&&s.Theta()>0.4&&s.Theta()<0.5&&TMath::Abs(s.eX-95000)<10000 && TMath::Abs(s.eY-95000) < 10000 ; 0 are erased by mask
+EdbAffine2D:   0.997376  0.002406 -0.002492  0.995567   919.802979  -293.730011
+EdbPlateAlignment::Align: pattern 1 with 31707 in limits x:(    85904.12    105890.35) y:(    84079.27    104028.52)
+EdbPlateAlignment::Align: pattern 2 with 30608 in limits x:(    85000.26    104999.55) y:(    85000.32    104998.89)
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 4 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 0 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+CoarseAl        : DVsame: 2000.00 2000.00  0.09000  0.09000
+CoarseAl        : 21181 coins with peak of 3696/2048.110 with offsets (dx:dy:dz:dphi):   -1.72    0.18 -1326.47  -0.006  with patterns of: 31707 30608
+FineAl          : peak of 9895 with offsets (dx:dy:dz:dphi):   -6.55   -1.60 -1326.66  -0.006  with patterns of: 31707 30608
+FineAl          : peak of 9969 with offsets (dx:dy:dz:dphi):   -9.88   -3.26 -1326.69  -0.006  with patterns of: 31707 30608
+FineAl          : peak of 10015 with offsets (dx:dy:dz:dphi):  -11.90   -4.31 -1326.25  -0.006  with patterns of: 31707 30608
+FineAl          : peak of 10013 with offsets (dx:dy:dz:dphi):  -13.73   -5.20 -1326.59  -0.006  with patterns of: 31707 30608
+FineAl          : peak of 10021 with offsets (dx:dy:dz:dphi):  -14.89   -5.95 -1325.89  -0.006  with patterns of: 31707 30608
+FineAlAff       : peak of 10101  with patterns of: 31707 30608
+FineAlAff       : peak of 10098  with patterns of: 31707 30608
+FineAlAff       : peak of 10098  with patterns of: 31707 30608
+FineAlAff       : peak of 10098  with patterns of: 31707 30608
+FineAlAff       : peak of 10121  with patterns of: 31707 30608
+Alignment Report: Coarse OK: 21181 coins with peak of 3696/2048.110
+Alignment Report: Fine   OK: 10119 coins inside ( 240.0  240.0) with angular acc: ( 0.090  0.090)
+Alignment Report: Save to file ../b000051/AFF/51.32.0.0_51.31.0.0.al.root
+Alignment Report: Nfinal= 10121    Peak:  3696/2048.110    dx,dy,dz = -19.492  -11.273 -1325.894
+Alignment Report: xmax-xmin: 21490.484375 (106490.742188-85000.257812) ymax-ymin: 21579.968750 (104998.890625-83418.921875)
+EdbCouplesTree::InitCouplesTree: create new tree couples in (null)
+UpdateAFFPar    : ../b000051/AFF/51.32.0.0_51.31.0.0.aff.par 
+EdbCouplesTree::GetCPData: select 30608 of 900175 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1&&s.Theta()>0.4&&s.Theta()<0.5&&TMath::Abs(s.eX-95000)<10000 && TMath::Abs(s.eY-95000) < 10000 ; 0 are erased by mask
+EdbCouplesTree::GetCPData: select 26141 of 755915 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1&&s.Theta()>0.4&&s.Theta()<0.5&&TMath::Abs(s.eX-95000)<10000 && TMath::Abs(s.eY-95000) < 10000 ; 0 are erased by mask
+EdbAffine2D:   0.998984 -0.006053  0.008648  0.998456  -257.158081  -378.177063
+EdbPlateAlignment::Align: pattern 1 with 30608 in limits x:(    84028.19    104116.09) y:(    85236.02    105358.05)
+EdbPlateAlignment::Align: pattern 2 with 26141 in limits x:(    85000.09    104997.88) y:(    85002.22    104999.93)
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 0 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 2 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+CoarseAl        : DVsame: 2000.00 2000.00  0.09000  0.09000
+CoarseAl        : 17859 coins with peak of 3143/1696.725 with offsets (dx:dy:dz:dphi):    0.81    0.91 -1306.86  -0.006  with patterns of: 30608 26141
+FineAl          : peak of 8394 with offsets (dx:dy:dz:dphi):    3.28    5.94 -1304.07  -0.006  with patterns of: 30608 26141
+FineAl          : peak of 8469 with offsets (dx:dy:dz:dphi):    4.83    9.33 -1303.78  -0.006  with patterns of: 30608 26141
+FineAl          : peak of 8500 with offsets (dx:dy:dz:dphi):    6.19   12.04 -1302.86  -0.006  with patterns of: 30608 26141
+FineAl          : peak of 8514 with offsets (dx:dy:dz:dphi):    7.05   14.45 -1301.90  -0.006  with patterns of: 30608 26141
+FineAl          : peak of 8540 with offsets (dx:dy:dz:dphi):    7.46   16.28 -1301.41  -0.006  with patterns of: 30608 26141
+FineAlAff       : peak of 8625  with patterns of: 30608 26141
+FineAlAff       : peak of 8635  with patterns of: 30608 26141
+FineAlAff       : peak of 8639  with patterns of: 30608 26141
+FineAlAff       : peak of 8617  with patterns of: 30608 26141
+FineAlAff       : peak of 8599  with patterns of: 30608 26141
+Alignment Report: Coarse OK: 17859 coins with peak of 3143/1696.725
+Alignment Report: Fine   OK: 8597 coins inside ( 240.0  240.0) with angular acc: ( 0.090  0.090)
+Alignment Report: Save to file ../b000051/AFF/51.31.0.0_51.30.0.0.al.root
+Alignment Report: Nfinal=  8599    Peak:  3143/1696.725    dx,dy,dz =   9.695   22.445 -1301.409
+Alignment Report: xmax-xmin: 21499.351562 (104997.875000-83498.523438) ymax-ymin: 21088.632812 (105860.609375-84771.976562)
+EdbCouplesTree::InitCouplesTree: create new tree couples in (null)
+UpdateAFFPar    : ../b000051/AFF/51.31.0.0_51.30.0.0.aff.par 
+MakeAlignSetSummary: ../b000051/b000051.0.0.0.align.ps
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+UpdateAlignSummaryTree: peak:    2934/2263.12/2009.587   dx,dy,dz: -31.281  65.555 -1267.641  for 000051.33.0.0_000051.32.0.0
+UpdateAlignSummaryTree: peak:    3696/2185.62/2048.110   dx,dy,dz: -19.492 -11.273 -1325.894  for 000051.32.0.0_000051.31.0.0
+UpdateAlignSummaryTree: peak:    3143/1839.50/1696.725   dx,dy,dz:   9.695  22.445 -1301.409  for 000051.31.0.0_000051.30.0.0
+makescanset     :  for id 000051.0.0.0
+EdbScanSet::MakeNominalSet: 000051.0.0.0
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+EdbScanSet: 000051.0.0.0
+Brick 51 with 4 plates:
+ 33          0.00        1.000000  0.000000  0.000000  1.000000        0.000000        0.000000
+ 32      -1267.64        1.001462  0.012135 -0.013312  1.000858     -270.199280       89.606247
+ 31      -2593.53        1.002783  0.003970 -0.005179  1.003284     -501.891235       44.210537
+ 30      -3894.94        1.003224  0.005661 -0.007836  1.004610      215.356628     -147.376343
+for this brick 4 identifiers are defined:
+000051.33.0.0  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+000051.32.0.0  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+000051.31.0.0  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+000051.30.0.0  shr1/base/shr2 = 1.000 / 175.0 / 1.000
+Starting test align with very precise parameters
+
+----------------------------------------------------------------------------
+align set 51.0.0.0
+----------------------------------------------------------------------------
+
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+EdbCouplesTree::GetCPData: select 220493 of 908420 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1 && TMath::Abs(s.eX-95000)<5000&&TMath::Abs(s.eY-95000)<5000 ; 0 are erased by mask
+EdbCouplesTree::GetCPData: select 225333 of 926025 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1 && TMath::Abs(s.eX-95000)<5000&&TMath::Abs(s.eY-95000)<5000 ; 0 are erased by mask
+EdbAffine2D:   0.998379 -0.012105  0.013279  0.998982   270.845978   -85.926994
+EdbPlateAlignment::Align: pattern 1 with 220493 in limits x:(    88918.61     99018.03) y:(    91022.49    101137.70)
+EdbPlateAlignment::Align: pattern 2 with 225333 in limits x:(    90000.03     99999.94) y:(    90000.05     99999.97)
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 1560 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 1524 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+CoarseAl        : DVsame:  100.00  100.00  0.00900  0.00900
+CoarseAl        : 118327 coins with peak of 31129/2932.956 with offsets (dx:dy:dz:dphi):   -2.09    0.77 -1306.86  -0.001  with patterns of: 220493 225333
+FineAl          : peak of 87397 with offsets (dx:dy:dz:dphi):   -2.79    0.99 -1295.59  -0.001  with patterns of: 220493 225333
+FineAl          : peak of 89228 with offsets (dx:dy:dz:dphi):   -3.15    1.16 -1290.37  -0.001  with patterns of: 220493 225333
+FineAl          : peak of 90093 with offsets (dx:dy:dz:dphi):   -3.34    1.26 -1287.09  -0.001  with patterns of: 220493 225333
+FineAl          : peak of 90533 with offsets (dx:dy:dz:dphi):   -3.43    1.31 -1285.22  -0.001  with patterns of: 220493 225333
+FineAl          : peak of 90715 with offsets (dx:dy:dz:dphi):   -3.48    1.34 -1284.49  -0.001  with patterns of: 220493 225333
+FineAlAff       : peak of 90907  with patterns of: 220493 225333
+FineAlAff       : peak of 102512  with patterns of: 220493 225333
+FineAlAff       : peak of 104753  with patterns of: 220493 225333
+FineAlAff       : peak of 104768  with patterns of: 220493 225333
+FineAlAff       : peak of 104759  with patterns of: 220493 225333
+Alignment Report: Coarse OK: 118327 coins with peak of 31129/2932.956
+Alignment Report: Fine   OK: 104728 coins inside (  16.0   16.0) with angular acc: ( 0.009  0.009)
+Alignment Report: Save to file ../b000051/AFF/51.33.0.0_51.32.0.0.al.root
+Alignment Report: Nfinal= 104759    Peak: 31129/2932.956    dx,dy,dz =  -2.617   -2.805 -1284.489
+Alignment Report: xmax-xmin: 10190.171875 (100090.203125-89900.031250) ymax-ymin: 10199.921875 (100099.968750-89900.046875)
+EdbCouplesTree::InitCouplesTree: create new tree couples in (null)
+UpdateAFFPar    : ../b000051/AFF/51.33.0.0_51.32.0.0.aff.par 
+EdbCouplesTree::GetCPData: select 225333 of 926025 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1 && TMath::Abs(s.eX-95000)<5000&&TMath::Abs(s.eY-95000)<5000 ; 0 are erased by mask
+EdbCouplesTree::GetCPData: select 219621 of 900175 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1 && TMath::Abs(s.eX-95000)<5000&&TMath::Abs(s.eY-95000)<5000 ; 0 are erased by mask
+EdbAffine2D:   0.998725  0.008144 -0.008123  0.997614   230.692017    41.424503
+EdbPlateAlignment::Align: pattern 1 with 225333 in limits x:(    90851.15    100915.77) y:(    89015.02     99068.26)
+EdbPlateAlignment::Align: pattern 2 with 219621 in limits x:(    90000.20     99999.89) y:(    90000.02     99999.86)
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 1526 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 1482 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+CoarseAl        : DVsame:  100.00  100.00  0.00900  0.00900
+CoarseAl        : 119343 coins with peak of 27533/2983.588 with offsets (dx:dy:dz:dphi):   -0.89   -8.47 -1323.93   0.001  with patterns of: 225333 219621
+FineAl          : peak of 78814 with offsets (dx:dy:dz:dphi):   -0.89   -8.62 -1319.97   0.001  with patterns of: 225333 219621
+FineAl          : peak of 79124 with offsets (dx:dy:dz:dphi):   -0.95   -8.72 -1317.63   0.001  with patterns of: 225333 219621
+FineAl          : peak of 79292 with offsets (dx:dy:dz:dphi):   -1.00   -8.80 -1316.37   0.001  with patterns of: 225333 219621
+FineAl          : peak of 79475 with offsets (dx:dy:dz:dphi):   -1.04   -8.87 -1315.68   0.001  with patterns of: 225333 219621
+FineAl          : peak of 79609 with offsets (dx:dy:dz:dphi):   -1.06   -8.91 -1315.33   0.001  with patterns of: 225333 219621
+FineAlAff       : peak of 79909  with patterns of: 225333 219621
+FineAlAff       : peak of 100910  with patterns of: 225333 219621
+FineAlAff       : peak of 106254  with patterns of: 225333 219621
+FineAlAff       : peak of 107202  with patterns of: 225333 219621
+FineAlAff       : peak of 107249  with patterns of: 225333 219621
+Alignment Report: Coarse OK: 119343 coins with peak of 27533/2983.588
+Alignment Report: Fine   OK: 107201 coins inside (  16.0   16.0) with angular acc: ( 0.009  0.009)
+Alignment Report: Save to file ../b000051/AFF/51.32.0.0_51.31.0.0.al.root
+Alignment Report: Nfinal= 107249    Peak: 27533/2983.588    dx,dy,dz =  -0.102   -6.352 -1315.333
+Alignment Report: xmax-xmin: 10199.687500 (100099.890625-89900.203125) ymax-ymin: 10199.843750 (100099.859375-89900.015625)
+EdbCouplesTree::InitCouplesTree: create new tree couples in (null)
+UpdateAFFPar    : ../b000051/AFF/51.32.0.0_51.31.0.0.aff.par 
+EdbCouplesTree::GetCPData: select 219621 of 900175 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1 && TMath::Abs(s.eX-95000)<5000&&TMath::Abs(s.eY-95000)<5000 ; 0 are erased by mask
+EdbCouplesTree::GetCPData: select 186436 of 755915 segments by cut eCHI2P<2.0&&s.eW>10&&eN1==1&&eN2==1 && TMath::Abs(s.eX-95000)<5000&&TMath::Abs(s.eY-95000)<5000 ; 0 are erased by mask
+EdbAffine2D:   0.999547 -0.001681  0.002638  0.998665  -717.397949   190.822006
+EdbPlateAlignment::Align: pattern 1 with 219621 in limits x:(    89074.70     99085.81) y:(    90309.07    100320.30)
+EdbPlateAlignment::Align: pattern 2 with 186436 in limits x:(    90000.03     99999.91) y:(    90000.09     99999.92)
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 1488 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+DubletsFilterOut: miss: 0 wrong: 0
+DubletsFilterOut: 941 segments discarded with DX,DY,DTX,DTY: (  5.0000   5.0000 0.00300 0.00300) checkview =0
+CoarseAl        : DVsame:  100.00  100.00  0.00900  0.00900
+CoarseAl        : 108113 coins with peak of 44252/2430.714 with offsets (dx:dy:dz:dphi):   -9.03    7.85 -1342.59   0.000  with patterns of: 219621 186436
+FineAl          : peak of 86963 with offsets (dx:dy:dz:dphi):   -9.51    7.91 -1318.46   0.000  with patterns of: 219621 186436
+FineAl          : peak of 88242 with offsets (dx:dy:dz:dphi):   -9.77    7.91 -1309.59   0.000  with patterns of: 219621 186436
+FineAl          : peak of 88684 with offsets (dx:dy:dz:dphi):   -9.86    7.91 -1305.61   0.000  with patterns of: 219621 186436
+FineAl          : peak of 88828 with offsets (dx:dy:dz:dphi):   -9.90    7.91 -1304.42   0.000  with patterns of: 219621 186436
+FineAl          : peak of 88878 with offsets (dx:dy:dz:dphi):   -9.91    7.91 -1304.10   0.000  with patterns of: 219621 186436
+FineAlAff       : peak of 88924  with patterns of: 219621 186436
+FineAlAff       : peak of 94085  with patterns of: 219621 186436
+FineAlAff       : peak of 95312  with patterns of: 219621 186436
+FineAlAff       : peak of 95500  with patterns of: 219621 186436
+FineAlAff       : peak of 95495  with patterns of: 219621 186436
+Alignment Report: Coarse OK: 108113 coins with peak of 44252/2430.714
+Alignment Report: Fine   OK: 95468 coins inside (  16.0   16.0) with angular acc: ( 0.009  0.009)
+Alignment Report: Save to file ../b000051/AFF/51.31.0.0_51.30.0.0.al.root
+Alignment Report: Nfinal= 95495    Peak: 44252/2430.714    dx,dy,dz = -11.508    9.703 -1304.104
+Alignment Report: xmax-xmin: 10199.875000 (100099.906250-89900.031250) ymax-ymin: 10199.828125 (100099.921875-89900.093750)
+EdbCouplesTree::InitCouplesTree: create new tree couples in (null)
+UpdateAFFPar    : ../b000051/AFF/51.31.0.0_51.30.0.0.aff.par 
+MakeAlignSetSummary: ../b000051/b000051.0.0.0.align.ps
+ReadScanSet     : from ../b000051/b000051.0.0.0.set.root
+UpdateAlignSummaryTree: peak:   31129/10899.75/2932.956   dx,dy,dz:  -2.617  -2.805 -1284.489  for 000051.33.0.0_000051.32.0.0
+UpdateAlignSummaryTree: peak:   27533/11476.25/2983.588   dx,dy,dz:  -0.102  -6.352 -1315.333  for 000051.32.0.0_000051.31.0.0
+UpdateAlignSummaryTree: peak:   44252/7982.62/2430.714   dx,dy,dz: -11.508   9.703 -1304.104  for 000051.31.0.0_000051.30.0.0
+Tasks Finished

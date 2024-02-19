@@ -1,0 +1,19 @@
+Error in <TSystem::ExpandFileName>: input: $HOME/.root.mimes, output: $HOME/.root.mimes
+Error in <TSystem::ExpandFileName>: input: $HOME/.root.mimes, output: $HOME/.root.mimes
+Info in <TCanvas::Print>: ps file ../b000051/b000051.0.0.0.align.ps has been created using the current canvas
+Info in <TCanvas::Print>: Current canvas added to ps file ../b000051/b000051.0.0.0.align.ps
+Info in <TCanvas::Print>: Current canvas added to ps file ../b000051/b000051.0.0.0.align.ps and file closed
+Error in <TSystem::ExpandFileName>: input: $HOME/.root.mimes, output: $HOME/.root.mimes
+Error in <TSystem::ExpandFileName>: input: $HOME/.root.mimes, output: $HOME/.root.mimes
+Info in <TCanvas::Print>: ps file ../b000051/b000051.0.0.0.align.ps has been created using the current canvas
+Info in <TCanvas::Print>: Current canvas added to ps file ../b000051/b000051.0.0.0.align.ps
+Info in <TCanvas::Print>: Current canvas added to ps file ../b000051/b000051.0.0.0.align.ps and file closed
+Error in <TSystem::ExpandFileName>: input: $HOME/.root.mimes, output: $HOME/.root.mimes
+Error in <TSystem::ExpandFileName>: input: $HOME/.root.mimes, output: $HOME/.root.mimes
+Info in <TCanvas::Print>: ps file ../b000051/b000051.0.0.0.align.ps has been created using the current canvas
+Info in <TCanvas::Print>: Current canvas added to ps file ../b000051/b000051.0.0.0.align.ps
+Info in <TCanvas::Print>: Current canvas added to ps file ../b000051/b000051.0.0.0.align.ps and file closed
+Run: [ERROR] Local error: permission denied:  (destination)
+Run: [ERROR] Local error: permission denied:  (destination)
+Run: [ERROR] Local error: permission denied:  (destination)
+Run: [ERROR] Local error: permission denied:  (destination)

@@ -1,0 +1,12 @@
+executable = doallalign.sh
+arguments = 33 30  $(ClusterID) $(ProcId)
+output = output/align.$(ClusterId).$(ProcId).out
+error = error/align.$(ClusterId).$(ProcId).err
+log = log/align.$(ClusterId).log
++JobFlavour = "workday"
+notification = Never
+Transfer_output_files = ""
++AccountingGroup = "group_u_SNDLHC.users"
+requirements = (OpSysAndVer =?= "AlmaLinux9")
+queue 1
+

@@ -1,0 +1,14 @@
+WARNING: not updating modulefiles
+Use alienv list to list loaded modules.
+Loading sndsw/latest
+  Loading requirement: BASE/1.0
+Error in <TSystem::ExpandFileName>: input: $HOME/.root.mimes, output: $HOME/.root.mimes
+Info in <TCanvas::Print>: png file raw_z.png has been created
+Info in <TCanvas::Print>: png file raw_view.png has been created
+Info in <TCanvas::Print>: png file raw_surf.png has been created
+Error in <TSystem::ExpandFileName>: input: $HOME/.root.mimes, output: $HOME/.root.mimes
+Error in <TUnixSystem::SetDisplay>: Can't figure out DISPLAY, set it manually
+In case you run a remote ssh session, restart your ssh session with:
+=========>  ssh -Y
+Error in <TGClient::TGClient>: only one instance of TGClient allowed
+Info in <TCanvas::Print>: png file thickness.png has been created
